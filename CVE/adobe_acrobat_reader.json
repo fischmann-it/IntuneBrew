@@ -1,7 +1,7 @@
 {
   "app_name": "Adobe Acrobat Reader",
   "app_key": "adobe_acrobat_reader",
-  "last_updated": "2026-04-27",
+  "last_updated": "2026-04-28",
   "total_cves": 2208,
   "summary": {
     "critical": 423,
@@ -9422,8 +9422,8 @@
     {
       "cve_id": "CVE-2025-64785",
       "published_date": "2025-12-09",
-      "last_modified_date": "2025-12-12",
-      "description": "Acrobat Reader versions 24.001.30264, 20.005.30793, 25.001.20982, 24.001.30273, 20.005.30803 and earlier are affected by an Untrusted Search Path vulnerability that might allow attackers to execute arbitrary code in the context of the current user. If the application uses a search path to locate critical resources such as programs, an attacker could modify that search path to point to a malicious program, which the targeted application would then execute. Exploitation of this issue does not require user interaction.",
+      "last_modified_date": "2026-04-28",
+      "description": "Acrobat Reader versions 24.001.30264, 20.005.30793, 25.001.20982, 24.001.30273, 20.005.30803 and earlier are affected by an Untrusted Search Path vulnerability that might allow attackers to execute arbitrary code in the context of the current user. If the application uses a search path to locate critical resources such as programs, an attacker could modify that search path to point to a malicious program, which the targeted application would then execute. Exploitation of this issue requires user interaction in that the user needs to open a malicious file.",
       "base_score": 7.8,
       "severity": "HIGH",
       "cvss_version": "3.1",
@@ -45479,8 +45479,8 @@
     {
       "cve_id": "CVE-2025-64786",
       "published_date": "2025-12-09",
-      "last_modified_date": "2025-12-12",
-      "description": "Acrobat Reader versions 24.001.30264, 20.005.30793, 25.001.20982, 24.001.30273, 20.005.30803 and earlier are affected by an Improper Verification of Cryptographic Signature vulnerability that could result in a Security feature bypass. An attacker could leverage this vulnerability to gain limited unauthorized write access. Exploitation of this issue does not require user interaction.",
+      "last_modified_date": "2026-04-28",
+      "description": "Acrobat Reader versions 24.001.30264, 20.005.30793, 25.001.20982, 24.001.30273, 20.005.30803 and earlier are affected by an Improper Verification of Cryptographic Signature vulnerability that could result in a Security feature bypass. An attacker could leverage this vulnerability to gain limited unauthorized write access. Exploitation of this issue requires user interaction with a cryptographic signature.",
       "base_score": 3.3,
       "severity": "LOW",
       "cvss_version": "3.1",
@@ -45500,8 +45500,8 @@
     {
       "cve_id": "CVE-2025-64787",
       "published_date": "2025-12-09",
-      "last_modified_date": "2025-12-12",
-      "description": "Acrobat Reader versions 24.001.30264, 20.005.30793, 25.001.20982, 24.001.30273, 20.005.30803 and earlier are affected by an Improper Verification of Cryptographic Signature vulnerability that could result in a Security feature bypass. An attacker could leverage this vulnerability to bypass cryptographic protections and gain limited unauthorized write access. Exploitation of this issue does not require user interaction.",
+      "last_modified_date": "2026-04-28",
+      "description": "Acrobat Reader versions 24.001.30264, 20.005.30793, 25.001.20982, 24.001.30273, 20.005.30803 and earlier are affected by an Improper Verification of Cryptographic Signature vulnerability that could result in a Security feature bypass. An attacker could leverage this vulnerability to bypass cryptographic protections and gain limited unauthorized write access. Exploitation of this issue requires user interaction with a cryptographic signature.",
       "base_score": 3.3,
       "severity": "LOW",
       "cvss_version": "3.1",
