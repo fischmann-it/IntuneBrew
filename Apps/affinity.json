@@ -8,5 +8,7 @@
   "homepage": "https://www.affinity.studio/",
   "fileName": "affinity_3.2.0.pkg",
   "type": "app",
-  "sha": "996811af1cbd655ecfc6fb66d7e48a1003f53db75bbca9d4358bc14c1fa405da"
+  "sha": "996811af1cbd655ecfc6fb66d7e48a1003f53db75bbca9d4358bc14c1fa405da",
+  "category": "Design",
+  "publisher": "Serif (Europe) Ltd"
 }
