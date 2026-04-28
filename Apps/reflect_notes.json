@@ -1,15 +1,15 @@
 {
   "name": "Reflect Notes",
   "description": "Note taking app for meetings, ideas, journalling, and research",
-  "version": "3.2.4",
-  "url": "https://intunebrew.blob.core.windows.net/pkg/reflect_notes_3.2.4.pkg",
+  "version": "3.3.0",
+  "url": "https://intunebrew.blob.core.windows.net/pkg/reflect_notes_3.3.0.pkg",
   "vendor_url": "https://github.com/team-reflect/reflect-electron-updates/releases/download/v3.2.4/Reflect-darwin-universal-3.2.4.zip",
   "bundleId": "app.reflect.ReflectDesktop",
   "homepage": "https://reflect.app/",
-  "fileName": "reflect_notes_3.2.4.pkg",
+  "fileName": "reflect_notes_3.3.0.pkg",
   "type": "app",
-  "sha": "6e7e264f603b98fd63649381bb6e331e200152ce3257cc80ac643c008fbf6c1a",
+  "sha": "54b1c648d7dc1b6bb58b419fa9929b0971c1089f6785d09402020318682d4cf2",
   "category": "Productivity",
   "publisher": "Reflect",
-  "previous_version": "3.2.4"
+  "previous_version": "3.3.0"
 }
