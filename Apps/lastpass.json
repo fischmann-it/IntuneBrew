@@ -7,5 +7,7 @@
   "bundleId": null,
   "homepage": "https://www.lastpass.com/",
   "fileName": "LastPass.dmg",
-  "sha": "e57596149e25c5edc4f4997e12b553f1e02b790824cc9cf6ef3f270b5488ef8e"
+  "sha": "e57596149e25c5edc4f4997e12b553f1e02b790824cc9cf6ef3f270b5488ef8e",
+  "category": "Security",
+  "publisher": "GoTo"
 }
