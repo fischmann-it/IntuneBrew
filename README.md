@@ -18,9 +18,9 @@
     <a href="https://www.powershellgallery.com/packages/IntuneBrew">
       <img src="https://img.shields.io/powershellgallery/dt/IntuneBrew?style=flat&label=PSGallery%20Downloads&color=brightgreen" alt="PowerShell Gallery Downloads"/>
     </a>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <p>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <p>
     <a href="#-supported-applications">
-      <img src="https://img.shields.io/badge/Apps_Available-1251-2ea44f?style=flat" alt="TotalApps"/>
+      <img src="https://img.shields.io/badge/Apps_Available-1252-2ea44f?style=flat" alt="TotalApps"/>
     </a>
   </p>
 </div>
@@ -444,34 +444,37 @@ This project uses publicly available metadata from Homebrew’s JSON API. Homebr
 
 
 
+
 ## 🔄 Latest Updates
 
-*Last checked: 2026-04-29 00:57 UTC*
+*Last checked: 2026-04-29 13:23 UTC*
 
 | Application | Previous Version | New Version |
 |-------------|-----------------|-------------|
 | Caffeine | 1.6.4 | 1.1.4 |
 | Multi | 0.538.2 | 3.0.2 |
-| Mozilla Firefox ESR | 140.10.0 | 140.10.1 |
-| Retcon | 1.5.3 | 1.6 |
-| AirBuddy | 2.7.4 | 2.8 |
-| OmniFocus | 4.8.9 | 4.8.10 |
-| Mozilla Firefox | 150.0 | 150.0.1 |
-| Notion | 7.12.0 | 7.14.0 |
-| Podman Desktop | 1.26.2 | 1.27.1 |
-| BoltAI 2 | 2.10.1 | 2.11.0 |
-| Remote Desktop Manager | 2026.1.11.3 | 2026.1.11.4 |
-| Warp | 0.2026.04.22.08.46.stable | 0.2026.04.27.15.32.stable |
-| PyCharm | 2026.1 | 2026.1.1 |
+| A Better Finder Rename | 12.28 | 12.29 |
+| WeChat for Mac | 4.1.9.27 | 4.1.9.31 |
+| LibreWolf | 150.0 | 150.0.1 |
+| Google Chrome | 147.0.7727.117 | 147.0.7727.138 |
+| Raycast | 1.104.13 | 1.104.14 |
+| Microsoft Office | 16.108.26041915 | 16.108.26042616 |
+| Windsurf | 2.0.67 | 2.1.29 |
+| Opera | 130.0.5847.92 | 131.0.5877.5 |
+| Plexamp | 4.13.1 | 4.13.2 |
+| Opera GX | 130.0.5847.89 | 130.0.5847.108 |
 | Caffeine | 1.6.4 | 1.1.4 |
-| Granola | 7.155.1 | 7.162.2 |
+| FLEXOPTIX App | 5.61.0-latest | 5.62.0-latest |
+| Mellel | 6.6.5 | 6.6.7 |
+| Moom | 4.4.2 | 4.5.0 |
 | Multi | 0.538.2 | 3.0.2 |
-| Notesnook | 3.3.15 | 3.3.16 |
-| RunJS | 3.2.2 | 4.0.0 |
-| Shapr3D | 26.61.0.10813 | 26.70.0.10837 |
-| Microsoft Excel | 16.108.26041915 | 16.108.26042616 |
-| Microsoft Outlook | 16.108.26041915 | 16.108.26042616 |
-| Wacom Tablet | 6.4.12-3 | 6.4.13-4 |
+| Tuta Mail | 345.260424.1 | 346.260428.0 |
+| Claude Code | 2.1.112 | 2.1.116 |
+| NordLayer | 3.9.1 | 3.10.0 |
+| Microsoft Office BusinessPro | 16.108.26041915 | 16.108.26042616 |
+| Microsoft OneNote | 16.108.26041915 | 16.108.26042616 |
+| Microsoft PowerPoint | 16.108.26041915 | 16.108.26042616 |
+| Microsoft Word | 16.108.26041915 | 16.108.26042616 |
 ## ✨ Features
 
 - 🚀 Automated app uploads to Microsoft Intune
