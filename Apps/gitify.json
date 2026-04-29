@@ -1,15 +1,15 @@
 {
   "name": "Gitify",
   "description": "GitHub notifications on your menu bar",
-  "version": "6.19.0",
-  "url": "https://intunebrew.blob.core.windows.net/pkg/gitify_6.19.0.pkg",
+  "version": "6.20.0",
+  "url": "https://intunebrew.blob.core.windows.net/pkg/gitify_6.20.0.pkg",
   "vendor_url": "https://github.com/gitify-app/gitify/releases/download/v6.19.0/Gitify-6.19.0-universal-mac.zip",
   "bundleId": "com.electron.gitify",
   "homepage": "https://github.com/gitify-app/gitify",
-  "fileName": "gitify_6.19.0.pkg",
+  "fileName": "gitify_6.20.0.pkg",
   "type": "app",
-  "sha": "36117355e92c2cbaabde66ac4f39f38c444d5bf39c0a9769cf35ea51134a5166",
+  "sha": "b9f55c73808495ba6f636d707d08c9e5b2351e7ea17b3198b8597eb26a421406",
   "category": "Productivity",
   "publisher": "gitify-app",
-  "previous_version": "6.19.0"
+  "previous_version": "6.20.0"
 }
