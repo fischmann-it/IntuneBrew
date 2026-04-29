@@ -1,7 +1,7 @@
 {
   "app_name": "Adobe Acrobat Reader",
   "app_key": "adobe_acrobat_reader",
-  "last_updated": "2026-04-28",
+  "last_updated": "2026-04-29",
   "total_cves": 2208,
   "summary": {
     "critical": 423,
@@ -9317,7 +9317,7 @@
     {
       "cve_id": "CVE-2011-4372",
       "published_date": "2012-01-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat before 9.5, and 10.x before 10.1.2, on Windows and Mac OS X allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2011-4370 and CVE-2011-4373.",
       "base_score": 9.8,
       "severity": "CRITICAL",
@@ -9338,7 +9338,7 @@
     {
       "cve_id": "CVE-2011-4373",
       "published_date": "2012-01-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat before 9.5, and 10.x before 10.1.2, on Windows and Mac OS X allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2011-4370 and CVE-2011-4372.",
       "base_score": 9.8,
       "severity": "CRITICAL",
@@ -29036,7 +29036,7 @@
     {
       "cve_id": "CVE-2013-1376",
       "published_date": "2014-01-30",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Buffer overflow in Adobe Reader and Acrobat 9.x before 9.5.3, 10.x before 10.1.5, and 11.x before 11.0.1 allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2013-0606, CVE-2013-0612, CVE-2013-0615, CVE-2013-0617, and CVE-2013-0621.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -29057,7 +29057,7 @@
     {
       "cve_id": "CVE-2014-0493",
       "published_date": "2014-01-15",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 10.x before 10.1.9 and 11.x before 11.0.06 on Windows and Mac OS X allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2014-0495.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -29078,7 +29078,7 @@
     {
       "cve_id": "CVE-2014-0495",
       "published_date": "2014-01-15",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 10.x before 10.1.9 and 11.x before 11.0.06 on Windows and Mac OS X allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2014-0493.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -29099,7 +29099,7 @@
     {
       "cve_id": "CVE-2013-5325",
       "published_date": "2013-10-09",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 11.x before 11.0.05 on Windows allow remote attackers to execute arbitrary JavaScript code in a javascript: URL via a crafted PDF document.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -29120,7 +29120,7 @@
     {
       "cve_id": "CVE-2013-3351",
       "published_date": "2013-09-12",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Multiple stack-based buffer overflows in Adobe Reader and Acrobat before 10.1.8 and 11.x before 11.0.04 on Windows and Mac OS X allow attackers to execute arbitrary code via unspecified vectors.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -29141,7 +29141,7 @@
     {
       "cve_id": "CVE-2013-3352",
       "published_date": "2013-09-12",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat before 10.1.8 and 11.x before 11.0.04 on Windows and Mac OS X allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2013-3354 and CVE-2013-3355.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -29162,7 +29162,7 @@
     {
       "cve_id": "CVE-2013-3353",
       "published_date": "2013-09-12",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Buffer overflow in Adobe Reader and Acrobat before 10.1.8 and 11.x before 11.0.04 on Windows and Mac OS X allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2013-3356.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -29183,7 +29183,7 @@
     {
       "cve_id": "CVE-2013-3354",
       "published_date": "2013-09-12",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat before 10.1.8 and 11.x before 11.0.04 on Windows and Mac OS X allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2013-3352 and CVE-2013-3355.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -29204,7 +29204,7 @@
     {
       "cve_id": "CVE-2013-3355",
       "published_date": "2013-09-12",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat before 10.1.8 and 11.x before 11.0.04 on Windows and Mac OS X allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2013-3352 and CVE-2013-3354.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -29225,7 +29225,7 @@
     {
       "cve_id": "CVE-2013-3356",
       "published_date": "2013-09-12",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Buffer overflow in Adobe Reader and Acrobat before 10.1.8 and 11.x before 11.0.04 on Windows and Mac OS X allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2013-3353.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -29246,7 +29246,7 @@
     {
       "cve_id": "CVE-2013-3357",
       "published_date": "2013-09-12",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Integer overflow in Adobe Reader and Acrobat before 10.1.8 and 11.x before 11.0.04 on Windows and Mac OS X allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2013-3358.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -29267,7 +29267,7 @@
     {
       "cve_id": "CVE-2013-3358",
       "published_date": "2013-09-12",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Integer overflow in Adobe Reader and Acrobat before 10.1.8 and 11.x before 11.0.04 on Windows and Mac OS X allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2013-3357.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -29288,7 +29288,7 @@
     {
       "cve_id": "CVE-2013-2718",
       "published_date": "2013-05-16",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.5.5, 10.x before 10.1.7, and 11.x before 11.0.03 allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2013-2719, CVE-2013-2720, CVE-2013-2721, CVE-2013-2722, CVE-2013-2723, CVE-2013-2725, CVE-2013-2726, CVE-2013-2731, CVE-2013-2732, CVE-2013-2734, CVE-2013-2735, CVE-2013-2736, CVE-2013-3337, CVE-2013-3338, CVE-2013-3339, CVE-2013-3340, and CVE-2013-3341.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -29309,7 +29309,7 @@
     {
       "cve_id": "CVE-2013-2719",
       "published_date": "2013-05-16",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.5.5, 10.x before 10.1.7, and 11.x before 11.0.03 allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2013-2718, CVE-2013-2720, CVE-2013-2721, CVE-2013-2722, CVE-2013-2723, CVE-2013-2725, CVE-2013-2726, CVE-2013-2731, CVE-2013-2732, CVE-2013-2734, CVE-2013-2735, CVE-2013-2736, CVE-2013-3337, CVE-2013-3338, CVE-2013-3339, CVE-2013-3340, and CVE-2013-3341.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -29330,7 +29330,7 @@
     {
       "cve_id": "CVE-2013-2720",
       "published_date": "2013-05-16",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.5.5, 10.x before 10.1.7, and 11.x before 11.0.03 allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2013-2718, CVE-2013-2719, CVE-2013-2721, CVE-2013-2722, CVE-2013-2723, CVE-2013-2725, CVE-2013-2726, CVE-2013-2731, CVE-2013-2732, CVE-2013-2734, CVE-2013-2735, CVE-2013-2736, CVE-2013-3337, CVE-2013-3338, CVE-2013-3339, CVE-2013-3340, and CVE-2013-3341.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -29351,7 +29351,7 @@
     {
       "cve_id": "CVE-2013-2721",
       "published_date": "2013-05-16",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.5.5, 10.x before 10.1.7, and 11.x before 11.0.03 allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2013-2718, CVE-2013-2719, CVE-2013-2720, CVE-2013-2722, CVE-2013-2723, CVE-2013-2725, CVE-2013-2726, CVE-2013-2731, CVE-2013-2732, CVE-2013-2734, CVE-2013-2735, CVE-2013-2736, CVE-2013-3337, CVE-2013-3338, CVE-2013-3339, CVE-2013-3340, and CVE-2013-3341.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -29372,7 +29372,7 @@
     {
       "cve_id": "CVE-2013-2722",
       "published_date": "2013-05-16",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.5.5, 10.x before 10.1.7, and 11.x before 11.0.03 allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2013-2718, CVE-2013-2719, CVE-2013-2720, CVE-2013-2721, CVE-2013-2723, CVE-2013-2725, CVE-2013-2726, CVE-2013-2731, CVE-2013-2732, CVE-2013-2734, CVE-2013-2735, CVE-2013-2736, CVE-2013-3337, CVE-2013-3338, CVE-2013-3339, CVE-2013-3340, and CVE-2013-3341.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -29393,7 +29393,7 @@
     {
       "cve_id": "CVE-2013-2723",
       "published_date": "2013-05-16",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.5.5, 10.x before 10.1.7, and 11.x before 11.0.03 allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2013-2718, CVE-2013-2719, CVE-2013-2720, CVE-2013-2721, CVE-2013-2722, CVE-2013-2725, CVE-2013-2726, CVE-2013-2731, CVE-2013-2732, CVE-2013-2734, CVE-2013-2735, CVE-2013-2736, CVE-2013-3337, CVE-2013-3338, CVE-2013-3339, CVE-2013-3340, and CVE-2013-3341.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -29414,7 +29414,7 @@
     {
       "cve_id": "CVE-2013-2724",
       "published_date": "2013-05-16",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Stack-based buffer overflow in Adobe Reader and Acrobat 9.x before 9.5.5, 10.x before 10.1.7, and 11.x before 11.0.03 allows attackers to execute arbitrary code via unspecified vectors.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -29435,7 +29435,7 @@
     {
       "cve_id": "CVE-2013-2725",
       "published_date": "2013-05-16",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.5.5, 10.x before 10.1.7, and 11.x before 11.0.03 allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2013-2718, CVE-2013-2719, CVE-2013-2720, CVE-2013-2721, CVE-2013-2722, CVE-2013-2723, CVE-2013-2726, CVE-2013-2731, CVE-2013-2732, CVE-2013-2734, CVE-2013-2735, CVE-2013-2736, CVE-2013-3337, CVE-2013-3338, CVE-2013-3339, CVE-2013-3340, and CVE-2013-3341.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -29456,7 +29456,7 @@
     {
       "cve_id": "CVE-2013-2726",
       "published_date": "2013-05-16",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.5.5, 10.x before 10.1.7, and 11.x before 11.0.03 allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2013-2718, CVE-2013-2719, CVE-2013-2720, CVE-2013-2721, CVE-2013-2722, CVE-2013-2723, CVE-2013-2725, CVE-2013-2731, CVE-2013-2732, CVE-2013-2734, CVE-2013-2735, CVE-2013-2736, CVE-2013-3337, CVE-2013-3338, CVE-2013-3339, CVE-2013-3340, and CVE-2013-3341.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -29477,7 +29477,7 @@
     {
       "cve_id": "CVE-2013-2727",
       "published_date": "2013-05-16",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Integer overflow in Adobe Reader and Acrobat 9.x before 9.5.5, 10.x before 10.1.7, and 11.x before 11.0.03 allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2013-2729.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -29498,7 +29498,7 @@
     {
       "cve_id": "CVE-2013-2730",
       "published_date": "2013-05-16",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Buffer overflow in Adobe Reader and Acrobat 9.x before 9.5.5, 10.x before 10.1.7, and 11.x before 11.0.03 allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2013-2733.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -29519,7 +29519,7 @@
     {
       "cve_id": "CVE-2013-2731",
       "published_date": "2013-05-16",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.5.5, 10.x before 10.1.7, and 11.x before 11.0.03 allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2013-2718, CVE-2013-2719, CVE-2013-2720, CVE-2013-2721, CVE-2013-2722, CVE-2013-2723, CVE-2013-2725, CVE-2013-2726, CVE-2013-2732, CVE-2013-2734, CVE-2013-2735, CVE-2013-2736, CVE-2013-3337, CVE-2013-3338, CVE-2013-3339, CVE-2013-3340, and CVE-2013-3341.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -29540,7 +29540,7 @@
     {
       "cve_id": "CVE-2013-2732",
       "published_date": "2013-05-16",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.5.5, 10.x before 10.1.7, and 11.x before 11.0.03 allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2013-2718, CVE-2013-2719, CVE-2013-2720, CVE-2013-2721, CVE-2013-2722, CVE-2013-2723, CVE-2013-2725, CVE-2013-2726, CVE-2013-2731, CVE-2013-2734, CVE-2013-2735, CVE-2013-2736, CVE-2013-3337, CVE-2013-3338, CVE-2013-3339, CVE-2013-3340, and CVE-2013-3341.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -29561,7 +29561,7 @@
     {
       "cve_id": "CVE-2013-2733",
       "published_date": "2013-05-16",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Buffer overflow in Adobe Reader and Acrobat 9.x before 9.5.5, 10.x before 10.1.7, and 11.x before 11.0.03 allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2013-2730.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -29582,7 +29582,7 @@
     {
       "cve_id": "CVE-2013-2734",
       "published_date": "2013-05-16",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.5.5, 10.x before 10.1.7, and 11.x before 11.0.03 allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2013-2718, CVE-2013-2719, CVE-2013-2720, CVE-2013-2721, CVE-2013-2722, CVE-2013-2723, CVE-2013-2725, CVE-2013-2726, CVE-2013-2731, CVE-2013-2732, CVE-2013-2735, CVE-2013-2736, CVE-2013-3337, CVE-2013-3338, CVE-2013-3339, CVE-2013-3340, and CVE-2013-3341.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -29603,7 +29603,7 @@
     {
       "cve_id": "CVE-2013-2735",
       "published_date": "2013-05-16",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.5.5, 10.x before 10.1.7, and 11.x before 11.0.03 allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2013-2718, CVE-2013-2719, CVE-2013-2720, CVE-2013-2721, CVE-2013-2722, CVE-2013-2723, CVE-2013-2725, CVE-2013-2726, CVE-2013-2731, CVE-2013-2732, CVE-2013-2734, CVE-2013-2736, CVE-2013-3337, CVE-2013-3338, CVE-2013-3339, CVE-2013-3340, and CVE-2013-3341.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -29624,7 +29624,7 @@
     {
       "cve_id": "CVE-2013-2736",
       "published_date": "2013-05-16",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.5.5, 10.x before 10.1.7, and 11.x before 11.0.03 allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2013-2718, CVE-2013-2719, CVE-2013-2720, CVE-2013-2721, CVE-2013-2722, CVE-2013-2723, CVE-2013-2725, CVE-2013-2726, CVE-2013-2731, CVE-2013-2732, CVE-2013-2734, CVE-2013-2735, CVE-2013-3337, CVE-2013-3338, CVE-2013-3339, CVE-2013-3340, and CVE-2013-3341.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -29645,7 +29645,7 @@
     {
       "cve_id": "CVE-2013-3337",
       "published_date": "2013-05-16",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.5.5, 10.x before 10.1.7, and 11.x before 11.0.03 allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2013-2718, CVE-2013-2719, CVE-2013-2720, CVE-2013-2721, CVE-2013-2722, CVE-2013-2723, CVE-2013-2725, CVE-2013-2726, CVE-2013-2731, CVE-2013-2732, CVE-2013-2734, CVE-2013-2735, CVE-2013-2736, CVE-2013-3338, CVE-2013-3339, CVE-2013-3340, and CVE-2013-3341.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -29666,7 +29666,7 @@
     {
       "cve_id": "CVE-2013-3338",
       "published_date": "2013-05-16",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.5.5, 10.x before 10.1.7, and 11.x before 11.0.03 allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2013-2718, CVE-2013-2719, CVE-2013-2720, CVE-2013-2721, CVE-2013-2722, CVE-2013-2723, CVE-2013-2725, CVE-2013-2726, CVE-2013-2731, CVE-2013-2732, CVE-2013-2734, CVE-2013-2735, CVE-2013-2736, CVE-2013-3337, CVE-2013-3339, CVE-2013-3340, and CVE-2013-3341.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -29687,7 +29687,7 @@
     {
       "cve_id": "CVE-2013-3339",
       "published_date": "2013-05-16",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.5.5, 10.x before 10.1.7, and 11.x before 11.0.03 allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2013-2718, CVE-2013-2719, CVE-2013-2720, CVE-2013-2721, CVE-2013-2722, CVE-2013-2723, CVE-2013-2725, CVE-2013-2726, CVE-2013-2731, CVE-2013-2732, CVE-2013-2734, CVE-2013-2735, CVE-2013-2736, CVE-2013-3337, CVE-2013-3338, CVE-2013-3340, and CVE-2013-3341.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -29708,7 +29708,7 @@
     {
       "cve_id": "CVE-2013-3340",
       "published_date": "2013-05-16",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.5.5, 10.x before 10.1.7, and 11.x before 11.0.03 allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2013-2718, CVE-2013-2719, CVE-2013-2720, CVE-2013-2721, CVE-2013-2722, CVE-2013-2723, CVE-2013-2725, CVE-2013-2726, CVE-2013-2731, CVE-2013-2732, CVE-2013-2734, CVE-2013-2735, CVE-2013-2736, CVE-2013-3337, CVE-2013-3338, CVE-2013-3339, and CVE-2013-3341.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -29729,7 +29729,7 @@
     {
       "cve_id": "CVE-2013-3341",
       "published_date": "2013-05-16",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.5.5, 10.x before 10.1.7, and 11.x before 11.0.03 allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2013-2718, CVE-2013-2719, CVE-2013-2720, CVE-2013-2721, CVE-2013-2722, CVE-2013-2723, CVE-2013-2725, CVE-2013-2726, CVE-2013-2731, CVE-2013-2732, CVE-2013-2734, CVE-2013-2735, CVE-2013-2736, CVE-2013-3337, CVE-2013-3338, CVE-2013-3339, and CVE-2013-3340.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -29750,7 +29750,7 @@
     {
       "cve_id": "CVE-2013-3342",
       "published_date": "2013-05-16",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.5.5, 10.x before 10.1.7, and 11.x before 11.0.03 do not properly handle operating-system domain blacklists, which has unspecified impact and attack vectors.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -29771,7 +29771,7 @@
     {
       "cve_id": "CVE-2013-2549",
       "published_date": "2013-03-11",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Unspecified vulnerability in Adobe Reader 11.0.02 allows remote attackers to execute arbitrary code via vectors related to a \"break into the sandbox,\" as demonstrated by George Hotz during a Pwn2Own competition at CanSecWest 2013.",
       "base_score": 7.5,
       "severity": "HIGH",
@@ -29792,7 +29792,7 @@
     {
       "cve_id": "CVE-2013-2550",
       "published_date": "2013-03-11",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Unspecified vulnerability in Adobe Reader 11.0.02 allows attackers to bypass the sandbox protection mechanism via unknown vectors, as demonstrated by George Hotz during a Pwn2Own competition at CanSecWest 2013.",
       "base_score": 7.5,
       "severity": "HIGH",
@@ -29813,7 +29813,7 @@
     {
       "cve_id": "CVE-2012-1530",
       "published_date": "2013-01-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Heap-based buffer overflow in the XSLT engine in Adobe Reader and Acrobat 9.x before 9.5.3, 10.x before 10.1.5, and 11.x before 11.0.1 allows attackers to execute arbitrary code or cause a denial of service (memory corruption) via a PDF file containing an XSL file that triggers memory corruption when the lang function processes XML data with a crafted node-set.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -29834,7 +29834,7 @@
     {
       "cve_id": "CVE-2013-0601",
       "published_date": "2013-01-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.5.3, 10.x before 10.1.5, and 11.x before 11.0.1 allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2012-1530, CVE-2013-0605, CVE-2013-0616, CVE-2013-0619, CVE-2013-0620, and CVE-2013-0623.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -29855,7 +29855,7 @@
     {
       "cve_id": "CVE-2013-0602",
       "published_date": "2013-01-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Use-after-free vulnerability in Adobe Reader and Acrobat 9.x before 9.5.3, 10.x before 10.1.5, and 11.x before 11.0.1 allows attackers to execute arbitrary code via unspecified vectors.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -29876,7 +29876,7 @@
     {
       "cve_id": "CVE-2013-0603",
       "published_date": "2013-01-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Heap-based buffer overflow in Adobe Reader and Acrobat 9.x before 9.5.3, 10.x before 10.1.5, and 11.x before 11.0.1 allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2013-0604.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -29897,7 +29897,7 @@
     {
       "cve_id": "CVE-2013-0604",
       "published_date": "2013-01-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Heap-based buffer overflow in Adobe Reader and Acrobat 9.x before 9.5.3, 10.x before 10.1.5, and 11.x before 11.0.1 allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2013-0603.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -29918,7 +29918,7 @@
     {
       "cve_id": "CVE-2013-0605",
       "published_date": "2013-01-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.5.3, 10.x before 10.1.5, and 11.x before 11.0.1 allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2012-1530, CVE-2013-0601, CVE-2013-0616, CVE-2013-0619, CVE-2013-0620, and CVE-2013-0623.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -29939,7 +29939,7 @@
     {
       "cve_id": "CVE-2013-0606",
       "published_date": "2013-01-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Buffer overflow in Adobe Reader and Acrobat 9.x before 9.5.3, 10.x before 10.1.5, and 11.x before 11.0.1 allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2013-0612, CVE-2013-0615, CVE-2013-0617, and CVE-2013-0621.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -29960,7 +29960,7 @@
     {
       "cve_id": "CVE-2013-0607",
       "published_date": "2013-01-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.5.3, 10.x before 10.1.5, and 11.x before 11.0.1 allow attackers to execute arbitrary code via unspecified vectors, related to a \"logic error,\" a different vulnerability than CVE-2013-0608, CVE-2013-0611, CVE-2013-0614, and CVE-2013-0618.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -29981,7 +29981,7 @@
     {
       "cve_id": "CVE-2013-0608",
       "published_date": "2013-01-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.5.3, 10.x before 10.1.5, and 11.x before 11.0.1 allow attackers to execute arbitrary code via unspecified vectors, related to a \"logic error,\" a different vulnerability than CVE-2013-0607, CVE-2013-0611, CVE-2013-0614, and CVE-2013-0618.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -30002,7 +30002,7 @@
     {
       "cve_id": "CVE-2013-0609",
       "published_date": "2013-01-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Integer overflow in Adobe Reader and Acrobat 9.x before 9.5.3, 10.x before 10.1.5, and 11.x before 11.0.1 allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2013-0613.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -30023,7 +30023,7 @@
     {
       "cve_id": "CVE-2013-0610",
       "published_date": "2013-01-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Stack-based buffer overflow in Adobe Reader and Acrobat 9.x before 9.5.3, 10.x before 10.1.5, and 11.x before 11.0.1 allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2013-0626.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -30044,7 +30044,7 @@
     {
       "cve_id": "CVE-2013-0611",
       "published_date": "2013-01-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.5.3, 10.x before 10.1.5, and 11.x before 11.0.1 allow attackers to execute arbitrary code via unspecified vectors, related to a \"logic error,\" a different vulnerability than CVE-2013-0607, CVE-2013-0608, CVE-2013-0614, and CVE-2013-0618.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -30065,7 +30065,7 @@
     {
       "cve_id": "CVE-2013-0612",
       "published_date": "2013-01-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Buffer overflow in Adobe Reader and Acrobat 9.x before 9.5.3, 10.x before 10.1.5, and 11.x before 11.0.1 allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2013-0606, CVE-2013-0615, CVE-2013-0617, and CVE-2013-0621.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -30086,7 +30086,7 @@
     {
       "cve_id": "CVE-2013-0613",
       "published_date": "2013-01-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Integer overflow in Adobe Reader and Acrobat 9.x before 9.5.3, 10.x before 10.1.5, and 11.x before 11.0.1 allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2013-0609.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -30107,7 +30107,7 @@
     {
       "cve_id": "CVE-2013-0614",
       "published_date": "2013-01-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.5.3, 10.x before 10.1.5, and 11.x before 11.0.1 allow attackers to execute arbitrary code via unspecified vectors, related to a \"logic error,\" a different vulnerability than CVE-2013-0607, CVE-2013-0608, CVE-2013-0611, and CVE-2013-0618.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -30128,7 +30128,7 @@
     {
       "cve_id": "CVE-2013-0615",
       "published_date": "2013-01-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Buffer overflow in Adobe Reader and Acrobat 9.x before 9.5.3, 10.x before 10.1.5, and 11.x before 11.0.1 allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2013-0606, CVE-2013-0612, CVE-2013-0617, and CVE-2013-0621.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -30149,7 +30149,7 @@
     {
       "cve_id": "CVE-2013-0616",
       "published_date": "2013-01-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.5.3, 10.x before 10.1.5, and 11.x before 11.0.1 allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2012-1530, CVE-2013-0601, CVE-2013-0605, CVE-2013-0619, CVE-2013-0620, and CVE-2013-0623.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -30170,7 +30170,7 @@
     {
       "cve_id": "CVE-2013-0617",
       "published_date": "2013-01-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Buffer overflow in Adobe Reader and Acrobat 9.x before 9.5.3, 10.x before 10.1.5, and 11.x before 11.0.1 allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2013-0606, CVE-2013-0612, CVE-2013-0615, and CVE-2013-0621.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -30191,7 +30191,7 @@
     {
       "cve_id": "CVE-2013-0618",
       "published_date": "2013-01-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.5.3, 10.x before 10.1.5, and 11.x before 11.0.1 allow attackers to execute arbitrary code via unspecified vectors, related to a \"logic error,\" a different vulnerability than CVE-2013-0607, CVE-2013-0608, CVE-2013-0611, and CVE-2013-0614.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -30212,7 +30212,7 @@
     {
       "cve_id": "CVE-2013-0619",
       "published_date": "2013-01-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.5.3, 10.x before 10.1.5, and 11.x before 11.0.1 allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2012-1530, CVE-2013-0601, CVE-2013-0605, CVE-2013-0616, CVE-2013-0620, and CVE-2013-0623.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -30233,7 +30233,7 @@
     {
       "cve_id": "CVE-2013-0620",
       "published_date": "2013-01-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.5.3, 10.x before 10.1.5, and 11.x before 11.0.1 allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2012-1530, CVE-2013-0601, CVE-2013-0605, CVE-2013-0616, CVE-2013-0619, and CVE-2013-0623.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -30254,7 +30254,7 @@
     {
       "cve_id": "CVE-2013-0621",
       "published_date": "2013-01-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Buffer overflow in Adobe Reader and Acrobat 9.x before 9.5.3, 10.x before 10.1.5, and 11.x before 11.0.1 allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2013-0606, CVE-2013-0612, CVE-2013-0615, and CVE-2013-0617.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -30275,7 +30275,7 @@
     {
       "cve_id": "CVE-2013-0622",
       "published_date": "2013-01-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.5.3, 10.x before 10.1.5, and 11.x before 11.0.1 allow attackers to bypass intended access restrictions via unspecified vectors, a different vulnerability than CVE-2013-0624.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -30296,7 +30296,7 @@
     {
       "cve_id": "CVE-2013-0623",
       "published_date": "2013-01-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.5.3, 10.x before 10.1.5, and 11.x before 11.0.1 allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2012-1530, CVE-2013-0601, CVE-2013-0605, CVE-2013-0616, CVE-2013-0619, and CVE-2013-0620.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -30317,7 +30317,7 @@
     {
       "cve_id": "CVE-2013-0624",
       "published_date": "2013-01-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.5.3, 10.x before 10.1.5, and 11.x before 11.0.1 allow attackers to bypass intended access restrictions via unspecified vectors, a different vulnerability than CVE-2013-0622.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -30338,7 +30338,7 @@
     {
       "cve_id": "CVE-2013-0626",
       "published_date": "2013-01-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Stack-based buffer overflow in Adobe Reader and Acrobat 9.x before 9.5.3, 10.x before 10.1.5, and 11.x before 11.0.1 allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2013-0610.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -30359,7 +30359,7 @@
     {
       "cve_id": "CVE-2013-0627",
       "published_date": "2013-01-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Unspecified vulnerability in Adobe Reader and Acrobat 9.x before 9.5.3, 10.x before 10.1.5, and 11.x before 11.0.1 allows local users to gain privileges via unknown vectors.",
       "base_score": 7.2,
       "severity": "HIGH",
@@ -30380,7 +30380,7 @@
     {
       "cve_id": "CVE-2012-4363",
       "published_date": "2012-08-21",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Multiple unspecified vulnerabilities in Adobe Reader through 10.1.4 allow remote attackers to cause a denial of service (application crash) or possibly execute arbitrary code via a crafted PDF document, related to \"sixteen more crashes affecting Windows, OS X, or both systems.\"",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -30401,7 +30401,7 @@
     {
       "cve_id": "CVE-2012-1525",
       "published_date": "2012-08-15",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Heap-based buffer overflow in Adobe Reader and Acrobat 9.x before 9.5.2 and 10.x before 10.1.4 on Windows and Mac OS X allows attackers to execute arbitrary code via unspecified vectors.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -30422,7 +30422,7 @@
     {
       "cve_id": "CVE-2012-2049",
       "published_date": "2012-08-15",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Stack-based buffer overflow in Adobe Reader and Acrobat 9.x before 9.5.2 and 10.x before 10.1.4 on Windows and Mac OS X allows attackers to execute arbitrary code via unspecified vectors.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -30443,7 +30443,7 @@
     {
       "cve_id": "CVE-2012-2050",
       "published_date": "2012-08-15",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Buffer overflow in Adobe Reader and Acrobat 9.x before 9.5.2 and 10.x before 10.1.4 on Windows and Mac OS X allows attackers to execute arbitrary code via unspecified vectors.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -30464,7 +30464,7 @@
     {
       "cve_id": "CVE-2012-2051",
       "published_date": "2012-08-15",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.5.2 and 10.x before 10.1.4 on Windows and Mac OS X allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2012-4147, CVE-2012-4148, CVE-2012-4149, CVE-2012-4150, CVE-2012-4151, CVE-2012-4152, CVE-2012-4153, CVE-2012-4154, CVE-2012-4155, CVE-2012-4156, CVE-2012-4157, CVE-2012-4158, CVE-2012-4159, and CVE-2012-4160.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -30485,7 +30485,7 @@
     {
       "cve_id": "CVE-2012-4147",
       "published_date": "2012-08-15",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.5.2 and 10.x before 10.1.4 on Windows and Mac OS X allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2012-2051, CVE-2012-4148, CVE-2012-4149, CVE-2012-4150, CVE-2012-4151, CVE-2012-4152, CVE-2012-4153, CVE-2012-4154, CVE-2012-4155, CVE-2012-4156, CVE-2012-4157, CVE-2012-4158, CVE-2012-4159, and CVE-2012-4160.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -30506,7 +30506,7 @@
     {
       "cve_id": "CVE-2012-4148",
       "published_date": "2012-08-15",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.5.2 and 10.x before 10.1.4 on Windows and Mac OS X allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2012-2051, CVE-2012-4147, CVE-2012-4149, CVE-2012-4150, CVE-2012-4151, CVE-2012-4152, CVE-2012-4153, CVE-2012-4154, CVE-2012-4155, CVE-2012-4156, CVE-2012-4157, CVE-2012-4158, CVE-2012-4159, and CVE-2012-4160.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -30527,7 +30527,7 @@
     {
       "cve_id": "CVE-2012-4149",
       "published_date": "2012-08-15",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.5.2 and 10.x before 10.1.4 on Windows and Mac OS X allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2012-2051, CVE-2012-4147, CVE-2012-4148, CVE-2012-4150, CVE-2012-4151, CVE-2012-4152, CVE-2012-4153, CVE-2012-4154, CVE-2012-4155, CVE-2012-4156, CVE-2012-4157, CVE-2012-4158, CVE-2012-4159, and CVE-2012-4160.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -30548,7 +30548,7 @@
     {
       "cve_id": "CVE-2012-4150",
       "published_date": "2012-08-15",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.5.2 and 10.x before 10.1.4 on Windows and Mac OS X allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2012-2051, CVE-2012-4147, CVE-2012-4148, CVE-2012-4149, CVE-2012-4151, CVE-2012-4152, CVE-2012-4153, CVE-2012-4154, CVE-2012-4155, CVE-2012-4156, CVE-2012-4157, CVE-2012-4158, CVE-2012-4159, and CVE-2012-4160.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -30569,7 +30569,7 @@
     {
       "cve_id": "CVE-2012-4151",
       "published_date": "2012-08-15",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.5.2 and 10.x before 10.1.4 on Windows and Mac OS X allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2012-2051, CVE-2012-4147, CVE-2012-4148, CVE-2012-4149, CVE-2012-4150, CVE-2012-4152, CVE-2012-4153, CVE-2012-4154, CVE-2012-4155, CVE-2012-4156, CVE-2012-4157, CVE-2012-4158, CVE-2012-4159, and CVE-2012-4160.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -30590,7 +30590,7 @@
     {
       "cve_id": "CVE-2012-4152",
       "published_date": "2012-08-15",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.5.2 and 10.x before 10.1.4 on Windows and Mac OS X allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2012-2051, CVE-2012-4147, CVE-2012-4148, CVE-2012-4149, CVE-2012-4150, CVE-2012-4151, CVE-2012-4153, CVE-2012-4154, CVE-2012-4155, CVE-2012-4156, CVE-2012-4157, CVE-2012-4158, CVE-2012-4159, and CVE-2012-4160.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -30611,7 +30611,7 @@
     {
       "cve_id": "CVE-2012-4153",
       "published_date": "2012-08-15",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.5.2 and 10.x before 10.1.4 on Windows and Mac OS X allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2012-2051, CVE-2012-4147, CVE-2012-4148, CVE-2012-4149, CVE-2012-4150, CVE-2012-4151, CVE-2012-4152, CVE-2012-4154, CVE-2012-4155, CVE-2012-4156, CVE-2012-4157, CVE-2012-4158, CVE-2012-4159, and CVE-2012-4160.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -30632,7 +30632,7 @@
     {
       "cve_id": "CVE-2012-4154",
       "published_date": "2012-08-15",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.5.2 and 10.x before 10.1.4 on Windows and Mac OS X allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2012-2051, CVE-2012-4147, CVE-2012-4148, CVE-2012-4149, CVE-2012-4150, CVE-2012-4151, CVE-2012-4152, CVE-2012-4153, CVE-2012-4155, CVE-2012-4156, CVE-2012-4157, CVE-2012-4158, CVE-2012-4159, and CVE-2012-4160.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -30653,7 +30653,7 @@
     {
       "cve_id": "CVE-2012-4155",
       "published_date": "2012-08-15",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.5.2 and 10.x before 10.1.4 on Windows and Mac OS X allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2012-2051, CVE-2012-4147, CVE-2012-4148, CVE-2012-4149, CVE-2012-4150, CVE-2012-4151, CVE-2012-4152, CVE-2012-4153, CVE-2012-4154, CVE-2012-4156, CVE-2012-4157, CVE-2012-4158, CVE-2012-4159, and CVE-2012-4160.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -30674,7 +30674,7 @@
     {
       "cve_id": "CVE-2012-4156",
       "published_date": "2012-08-15",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.5.2 and 10.x before 10.1.4 on Windows and Mac OS X allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2012-2051, CVE-2012-4147, CVE-2012-4148, CVE-2012-4149, CVE-2012-4150, CVE-2012-4151, CVE-2012-4152, CVE-2012-4153, CVE-2012-4154, CVE-2012-4155, CVE-2012-4157, CVE-2012-4158, CVE-2012-4159, and CVE-2012-4160.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -30695,7 +30695,7 @@
     {
       "cve_id": "CVE-2012-4157",
       "published_date": "2012-08-15",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.5.2 and 10.x before 10.1.4 on Windows and Mac OS X allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2012-2051, CVE-2012-4147, CVE-2012-4148, CVE-2012-4149, CVE-2012-4150, CVE-2012-4151, CVE-2012-4152, CVE-2012-4153, CVE-2012-4154, CVE-2012-4155, CVE-2012-4156, CVE-2012-4158, CVE-2012-4159, and CVE-2012-4160.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -30716,7 +30716,7 @@
     {
       "cve_id": "CVE-2012-4158",
       "published_date": "2012-08-15",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.5.2 and 10.x before 10.1.4 on Windows and Mac OS X allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2012-2051, CVE-2012-4147, CVE-2012-4148, CVE-2012-4149, CVE-2012-4150, CVE-2012-4151, CVE-2012-4152, CVE-2012-4153, CVE-2012-4154, CVE-2012-4155, CVE-2012-4156, CVE-2012-4157, CVE-2012-4159, and CVE-2012-4160.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -30737,7 +30737,7 @@
     {
       "cve_id": "CVE-2012-4159",
       "published_date": "2012-08-15",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.5.2 and 10.x before 10.1.4 on Windows and Mac OS X allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2012-2051, CVE-2012-4147, CVE-2012-4148, CVE-2012-4149, CVE-2012-4150, CVE-2012-4151, CVE-2012-4152, CVE-2012-4153, CVE-2012-4154, CVE-2012-4155, CVE-2012-4156, CVE-2012-4157, CVE-2012-4158, and CVE-2012-4160.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -30758,7 +30758,7 @@
     {
       "cve_id": "CVE-2012-4160",
       "published_date": "2012-08-15",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.5.2 and 10.x before 10.1.4 on Windows and Mac OS X allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2012-2051, CVE-2012-4147, CVE-2012-4148, CVE-2012-4149, CVE-2012-4150, CVE-2012-4151, CVE-2012-4152, CVE-2012-4153, CVE-2012-4154, CVE-2012-4155, CVE-2012-4156, CVE-2012-4157, CVE-2012-4158, and CVE-2012-4159.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -30779,7 +30779,7 @@
     {
       "cve_id": "CVE-2012-4161",
       "published_date": "2012-08-15",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.5.2 and 10.x before 10.1.4 on Mac OS X allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2012-4162.",
       "base_score": 7.5,
       "severity": "HIGH",
@@ -30800,7 +30800,7 @@
     {
       "cve_id": "CVE-2012-4162",
       "published_date": "2012-08-15",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.5.2 and 10.x before 10.1.4 on Mac OS X allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2012-4161.",
       "base_score": 7.5,
       "severity": "HIGH",
@@ -30821,7 +30821,7 @@
     {
       "cve_id": "CVE-2012-0774",
       "published_date": "2012-04-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Integer overflow in Adobe Reader and Acrobat 9.x before 9.5.1 and 10.x before 10.1.3 allows attackers to execute arbitrary code via a crafted TrueType font.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -30842,7 +30842,7 @@
     {
       "cve_id": "CVE-2012-0775",
       "published_date": "2012-04-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "The JavaScript implementation in Adobe Reader and Acrobat 9.x before 9.5.1 and 10.x before 10.1.3 allows attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -30863,7 +30863,7 @@
     {
       "cve_id": "CVE-2012-0776",
       "published_date": "2012-04-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "The installer in Adobe Reader 9.x before 9.5.1 and 10.x before 10.1.3 allows attackers to bypass intended access restrictions and execute arbitrary code via unspecified vectors.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -30884,7 +30884,7 @@
     {
       "cve_id": "CVE-2011-4374",
       "published_date": "2012-01-19",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Integer overflow in Adobe Reader 9.x before 9.4.6 on Linux allows attackers to execute arbitrary code via unspecified vectors.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -30905,7 +30905,7 @@
     {
       "cve_id": "CVE-2011-4370",
       "published_date": "2012-01-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat before 9.5, and 10.x before 10.1.2, on Windows and Mac OS X allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2011-4372 and CVE-2011-4373.",
       "base_score": 7.5,
       "severity": "HIGH",
@@ -30926,7 +30926,7 @@
     {
       "cve_id": "CVE-2011-4371",
       "published_date": "2012-01-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat before 9.5, and 10.x before 10.1.2, on Windows and Mac OS X allow attackers to execute arbitrary code or cause a denial of service (heap memory corruption) via unspecified vectors.",
       "base_score": 7.5,
       "severity": "HIGH",
@@ -30947,7 +30947,7 @@
     {
       "cve_id": "CVE-2011-4369",
       "published_date": "2011-12-16",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Unspecified vulnerability in the PRC component in Adobe Reader and Acrobat 9.x before 9.4.7 on Windows, Adobe Reader and Acrobat 9.x through 9.4.6 on Mac OS X, Adobe Reader and Acrobat 10.x through 10.1.1 on Windows and Mac OS X, and Adobe Reader 9.x through 9.4.6 on UNIX allows remote attackers to execute arbitrary code or cause a denial of service (memory corruption) via unknown vectors, as exploited in the wild in December 2011.",
       "base_score": 10.0,
       "severity": "HIGH",
@@ -30968,7 +30968,7 @@
     {
       "cve_id": "CVE-2011-2431",
       "published_date": "2011-09-15",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 8.x before 8.3.1, 9.x before 9.4.6, and 10.x before 10.1.1 allow attackers to execute arbitrary code via unspecified vectors, related to a \"security bypass vulnerability.\"",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -30989,7 +30989,7 @@
     {
       "cve_id": "CVE-2011-2432",
       "published_date": "2011-09-15",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Buffer overflow in the U3D TIFF Resource in Adobe Reader and Acrobat 8.x before 8.3.1, 9.x before 9.4.6, and 10.x before 10.1.1 allows attackers to execute arbitrary code via unspecified vectors.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -31010,7 +31010,7 @@
     {
       "cve_id": "CVE-2011-2433",
       "published_date": "2011-09-15",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Heap-based buffer overflow in Adobe Reader and Acrobat 8.x before 8.3.1, 9.x before 9.4.6, and 10.x before 10.1.1 allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2011-2434 and CVE-2011-2437.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -31031,7 +31031,7 @@
     {
       "cve_id": "CVE-2011-2434",
       "published_date": "2011-09-15",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Heap-based buffer overflow in Adobe Reader and Acrobat 8.x before 8.3.1, 9.x before 9.4.6, and 10.x before 10.1.1 allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2011-2433 and CVE-2011-2437.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -31052,7 +31052,7 @@
     {
       "cve_id": "CVE-2011-2435",
       "published_date": "2011-09-15",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Buffer overflow in Adobe Reader and Acrobat 8.x before 8.3.1, 9.x before 9.4.6, and 10.x before 10.1.1 allows attackers to execute arbitrary code via unspecified vectors.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -31073,7 +31073,7 @@
     {
       "cve_id": "CVE-2011-2436",
       "published_date": "2011-09-15",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Heap-based buffer overflow in the image-parsing library in Adobe Reader and Acrobat 8.x before 8.3.1, 9.x before 9.4.6, and 10.x before 10.1.1 allows attackers to execute arbitrary code via unspecified vectors.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -31094,7 +31094,7 @@
     {
       "cve_id": "CVE-2011-2437",
       "published_date": "2011-09-15",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Heap-based buffer overflow in Adobe Reader and Acrobat 8.x before 8.3.1, 9.x before 9.4.6, and 10.x before 10.1.1 allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2011-2433 and CVE-2011-2434.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -31115,7 +31115,7 @@
     {
       "cve_id": "CVE-2011-2438",
       "published_date": "2011-09-15",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Multiple stack-based buffer overflows in the image-parsing library in Adobe Reader and Acrobat 8.x before 8.3.1, 9.x before 9.4.6, and 10.x before 10.1.1 allow attackers to execute arbitrary code via unspecified vectors.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -31136,7 +31136,7 @@
     {
       "cve_id": "CVE-2011-2439",
       "published_date": "2011-09-15",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 8.x before 8.3.1, 9.x before 9.4.6, and 10.x before 10.1.1 allow attackers to execute arbitrary code via unspecified vectors, related to a \"memory leakage condition vulnerability.\"",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -31157,7 +31157,7 @@
     {
       "cve_id": "CVE-2011-2440",
       "published_date": "2011-09-15",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Use-after-free vulnerability in Adobe Reader and Acrobat 8.x before 8.3.1, 9.x before 9.4.6, and 10.x before 10.1.1 allows attackers to execute arbitrary code via unspecified vectors.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -31178,7 +31178,7 @@
     {
       "cve_id": "CVE-2011-2441",
       "published_date": "2011-09-15",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Multiple stack-based buffer overflows in CoolType.dll in Adobe Reader and Acrobat 8.x before 8.3.1, 9.x before 9.4.6, and 10.x before 10.1.1 allow attackers to execute arbitrary code via unspecified vectors.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -31199,7 +31199,7 @@
     {
       "cve_id": "CVE-2011-2442",
       "published_date": "2011-09-15",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 8.x before 8.3.1, 9.x before 9.4.6, and 10.x before 10.1.1 allow attackers to execute arbitrary code via unspecified vectors, related to a \"logic error vulnerability.\"",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -31220,7 +31220,7 @@
     {
       "cve_id": "CVE-2011-2094",
       "published_date": "2011-06-16",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Buffer overflow in Adobe Reader and Acrobat 8.x before 8.3, 9.x before 9.4.5, and 10.x before 10.1 on Windows and Mac OS X allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2011-2095 and CVE-2011-2097.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -31241,7 +31241,7 @@
     {
       "cve_id": "CVE-2011-2095",
       "published_date": "2011-06-16",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Buffer overflow in Adobe Reader and Acrobat 8.x before 8.3, 9.x before 9.4.5, and 10.x before 10.1 on Windows and Mac OS X allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2011-2094 and CVE-2011-2097.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -31262,7 +31262,7 @@
     {
       "cve_id": "CVE-2011-2096",
       "published_date": "2011-06-16",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Heap-based buffer overflow in Adobe Reader and Acrobat 8.x before 8.3, 9.x before 9.4.5, and 10.x before 10.1 on Windows and Mac OS X allows attackers to execute arbitrary code via unspecified vectors.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -31283,7 +31283,7 @@
     {
       "cve_id": "CVE-2011-2097",
       "published_date": "2011-06-16",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Buffer overflow in Adobe Reader and Acrobat 8.x before 8.3, 9.x before 9.4.5, and 10.x before 10.1 on Windows and Mac OS X allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2011-2094 and CVE-2011-2095.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -31304,7 +31304,7 @@
     {
       "cve_id": "CVE-2011-2098",
       "published_date": "2011-06-16",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 8.x before 8.3, 9.x before 9.4.5, and 10.x before 10.1 on Windows and Mac OS X allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2011-2099.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -31325,7 +31325,7 @@
     {
       "cve_id": "CVE-2011-2099",
       "published_date": "2011-06-16",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 8.x before 8.3, 9.x before 9.4.5, and 10.x before 10.1 on Windows and Mac OS X allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2011-2098.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -31346,7 +31346,7 @@
     {
       "cve_id": "CVE-2011-2101",
       "published_date": "2011-06-16",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 8.x before 8.3, 9.x before 9.4.5, and 10.x before 10.1 on Windows and Mac OS X do not properly restrict script, which allows attackers to execute arbitrary code via a crafted document, related to a \"cross document script execution vulnerability.\"",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -31367,7 +31367,7 @@
     {
       "cve_id": "CVE-2011-2102",
       "published_date": "2011-06-16",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Unspecified vulnerability in Adobe Reader and Acrobat before 10.1 on Windows and Mac OS X allows attackers to bypass intended access restrictions via unknown vectors.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -31388,7 +31388,7 @@
     {
       "cve_id": "CVE-2011-2103",
       "published_date": "2011-06-16",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 8.x before 8.3 on Windows and Mac OS X allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -31409,7 +31409,7 @@
     {
       "cve_id": "CVE-2011-2105",
       "published_date": "2011-06-16",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 8.x before 8.3, 9.x before 9.4.5, and 10.x before 10.1 on Windows and Mac OS X allow attackers to cause a denial of service (memory corruption) or possibly have unspecified other impact via crafted font data.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -31430,7 +31430,7 @@
     {
       "cve_id": "CVE-2011-2106",
       "published_date": "2011-06-16",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 8.x before 8.3, 9.x before 9.4.5, and 10.x before 10.1 on Mac OS X allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -31451,7 +31451,7 @@
     {
       "cve_id": "CVE-2011-0610",
       "published_date": "2011-05-03",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "The CoolType library in Adobe Reader 9.x before 9.4.4 and 10.x through 10.0.1 on Windows, Adobe Reader 9.x before 9.4.4 and 10.x before 10.0.3 on Mac OS X, and Adobe Acrobat 9.x before 9.4.4 and 10.x before 10.0.3 on Windows and Mac OS X allows remote attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -31472,7 +31472,7 @@
     {
       "cve_id": "CVE-2011-0563",
       "published_date": "2011-02-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 10.x before 10.0.1, 9.x before 9.4.2, and 8.x before 8.2.6 on Windows and Mac OS X allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2011-0589 and CVE-2011-0606.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -31493,7 +31493,7 @@
     {
       "cve_id": "CVE-2011-0564",
       "published_date": "2011-02-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 10.x before 10.0.1, 9.x before 9.4.2, and 8.x before 8.2.6 on Windows use weak permissions for unspecified files, which allows attackers to gain privileges via unknown vectors.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -31514,7 +31514,7 @@
     {
       "cve_id": "CVE-2011-0565",
       "published_date": "2011-02-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Unspecified vulnerability in Adobe Reader and Acrobat 10.x before 10.0.1, 9.x before 9.4.2, and 8.x before 8.2.6 on Windows and Mac OS X allows attackers to cause a denial of service or possibly execute arbitrary code via unknown vectors, a different vulnerability than CVE-2011-0585.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -31535,7 +31535,7 @@
     {
       "cve_id": "CVE-2011-0566",
       "published_date": "2011-02-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 10.x before 10.0.1, 9.x before 9.4.2, and 8.x before 8.2.6 on Windows and Mac OS X allow remote attackers to execute arbitrary code or cause a denial of service (memory corruption) via a crafted image, a different vulnerability than CVE-2011-0567 and CVE-2011-0603.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -31556,7 +31556,7 @@
     {
       "cve_id": "CVE-2011-0567",
       "published_date": "2011-02-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "AcroRd32.dll in Adobe Reader and Acrobat 10.x before 10.0.1, 9.x before 9.4.2, and 8.x before 8.2.6 on Windows and Mac OS X allow remote attackers to execute arbitrary code or cause a denial of service (memory corruption) via a crafted image that triggers an incorrect pointer calculation, leading to heap memory corruption, a different vulnerability than CVE-2011-0566 and CVE-2011-0603.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -31577,7 +31577,7 @@
     {
       "cve_id": "CVE-2011-0585",
       "published_date": "2011-02-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Unspecified vulnerability in Adobe Reader and Acrobat 10.x before 10.0.1, 9.x before 9.4.2, and 8.x before 8.2.6 on Windows and Mac OS X allows attackers to cause a denial of service or possibly execute arbitrary code via unknown vectors, a different vulnerability than CVE-2011-0565.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -31598,7 +31598,7 @@
     {
       "cve_id": "CVE-2011-0586",
       "published_date": "2011-02-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 10.x before 10.0.1, 9.x before 9.4.2, and 8.x before 8.2.6 on Windows and Mac OS X do not properly validate unspecified input data, which allows attackers to execute arbitrary code via unknown vectors.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -31619,7 +31619,7 @@
     {
       "cve_id": "CVE-2011-0589",
       "published_date": "2011-02-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 10.x before 10.0.1, 9.x before 9.4.2, and 8.x before 8.2.6 on Windows and Mac OS X allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2011-0563 and CVE-2011-0606.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -31640,7 +31640,7 @@
     {
       "cve_id": "CVE-2011-0590",
       "published_date": "2011-02-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 10.x before 10.0.1, 9.x before 9.4.2, and 8.x before 8.2.6 on Windows and Mac OS X allow remote attackers to execute arbitrary code via a 3D file, a different vulnerability than CVE-2011-0591, CVE-2011-0592, CVE-2011-0593, CVE-2011-0595, and CVE-2011-0600.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -31661,7 +31661,7 @@
     {
       "cve_id": "CVE-2011-0591",
       "published_date": "2011-02-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 10.x before 10.0.1, 9.x before 9.4.2, and 8.x before 8.2.6 on Windows and Mac OS X allow remote attackers to execute arbitrary code via a crafted Universal 3D (U3D) file that triggers a buffer overflow during decompression, related to Texture and rgba, a different vulnerability than CVE-2011-0590, CVE-2011-0592, CVE-2011-0593, CVE-2011-0595, and CVE-2011-0600.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -31682,7 +31682,7 @@
     {
       "cve_id": "CVE-2011-0592",
       "published_date": "2011-02-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 10.x before 10.0.1, 9.x before 9.4.2, and 8.x before 8.2.6 on Windows and Mac OS X allow remote attackers to execute arbitrary code via a crafted Universal 3D (U3D) file that triggers a buffer overflow during decompression, related to \"Texture bmp,\" a different vulnerability than CVE-2011-0590, CVE-2011-0591, CVE-2011-0593, CVE-2011-0595, and CVE-2011-0600.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -31703,7 +31703,7 @@
     {
       "cve_id": "CVE-2011-0593",
       "published_date": "2011-02-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 10.x before 10.0.1, 9.x before 9.4.2, and 8.x before 8.2.6 on Windows and Mac OS X allow remote attackers to execute arbitrary code via a crafted Universal 3D (U3D) file that triggers a buffer overflow during decompression, a different vulnerability than CVE-2011-0590, CVE-2011-0591, CVE-2011-0592, CVE-2011-0595, and CVE-2011-0600.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -31724,7 +31724,7 @@
     {
       "cve_id": "CVE-2011-0594",
       "published_date": "2011-02-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 10.x before 10.0.1, 9.x before 9.4.2, and 8.x before 8.2.6 on Windows and Mac OS X allow remote attackers to execute arbitrary code via a font.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -31745,7 +31745,7 @@
     {
       "cve_id": "CVE-2011-0595",
       "published_date": "2011-02-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 10.x before 10.0.1, 9.x before 9.4.2, and 8.x before 8.2.6 on Windows and Mac OS X allow remote attackers to execute arbitrary code via a crafted Universal 3D (U3D) file that triggers a buffer overflow during decompression, a different vulnerability than CVE-2011-0590, CVE-2011-0591, CVE-2011-0592, CVE-2011-0593, and CVE-2011-0600.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -31766,7 +31766,7 @@
     {
       "cve_id": "CVE-2011-0596",
       "published_date": "2011-02-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "The Bitmap parsing component in 2d.dll in Adobe Reader and Acrobat 10.x before 10.0.1, 9.x before 9.4.2, and 8.x before 8.2.6 on Windows and Mac OS X allow remote attackers to execute arbitrary code via an image with crafted (1) height and (2) width values for an RLE_8 compressed bitmap, which triggers a heap-based buffer overflow, a different vulnerability than CVE-2011-0598, CVE-2011-0599, and CVE-2011-0602.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -31787,7 +31787,7 @@
     {
       "cve_id": "CVE-2011-0598",
       "published_date": "2011-02-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Integer overflow in ACE.dll in Adobe Reader and Acrobat 10.x before 10.0.1, 9.x before 9.4.2, and 8.x before 8.2.6 on Windows and Mac OS X allows remote attackers to execute arbitrary code via crafted ICC data, a different vulnerability than CVE-2011-0596, CVE-2011-0599, and CVE-2011-0602.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -31808,7 +31808,7 @@
     {
       "cve_id": "CVE-2011-0599",
       "published_date": "2011-02-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "The Bitmap parsing component in rt3d.dll in Adobe Reader and Acrobat 10.x before 10.0.1, 9.x before 9.4.2, and 8.x before 8.2.6 on Windows and Mac OS X allow remote attackers to execute arbitrary code via a crafted image that causes an invalid pointer calculation related to 4/8-bit RLE compression, a different vulnerability than CVE-2011-0596, CVE-2011-0598, and CVE-2011-0602.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -31829,7 +31829,7 @@
     {
       "cve_id": "CVE-2011-0600",
       "published_date": "2011-02-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "The U3D component in Adobe Reader and Acrobat 10.x before 10.0.1, 9.x before 9.4.2, and 8.x before 8.2.6 on Windows and Mac OS X allow remote attackers to execute arbitrary code via a 3D file with an invalid Parent Node count that triggers an incorrect size calculation and memory corruption, a different vulnerability than CVE-2011-0590, CVE-2011-0591, CVE-2011-0592, CVE-2011-0593, and CVE-2011-0595.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -31850,7 +31850,7 @@
     {
       "cve_id": "CVE-2011-0602",
       "published_date": "2011-02-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 10.x before 10.0.1, 9.x before 9.4.2, and 8.x before 8.2.6 on Windows and Mac OS X allow remote attackers to execute arbitrary code via crafted JP2K record types in a JPEG2000 image in a PDF file, which causes heap corruption, a different vulnerability than CVE-2011-0596, CVE-2011-0598, and CVE-2011-0599.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -31871,7 +31871,7 @@
     {
       "cve_id": "CVE-2011-0603",
       "published_date": "2011-02-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 10.x before 10.0.1, 9.x before 9.4.2, and 8.x before 8.2.6 on Windows and Mac OS X allow remote attackers to execute arbitrary code or cause a denial of service (memory corruption) via a crafted image, a different vulnerability than CVE-2011-0566 and CVE-2011-0567.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -31892,7 +31892,7 @@
     {
       "cve_id": "CVE-2011-0606",
       "published_date": "2011-02-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Stack-based buffer overflow in rt3d.dll in Adobe Reader and Acrobat 10.x before 10.0.1, 9.x before 9.4.2, and 8.x before 8.2.6 on Windows and Mac OS X allow remote attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors related to a crafted length value, a different vulnerability than CVE-2011-0563 and CVE-2011-0589.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -31913,7 +31913,7 @@
     {
       "cve_id": "CVE-2010-4091",
       "published_date": "2010-11-07",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "The EScript.api plugin in Adobe Reader and Acrobat 10.x before 10.0.1, 9.x before 9.4.1, and 8.x before 8.2.6 on Windows and Mac OS X allows remote attackers to execute arbitrary code or cause a denial of service (application crash) via a crafted PDF document that triggers memory corruption, involving the printSeps function. NOTE: some of these details are obtained from third party information.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -31934,7 +31934,7 @@
     {
       "cve_id": "CVE-2010-3654",
       "published_date": "2010-10-29",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Flash Player before 9.0.289.0 and 10.x before 10.1.102.64 on Windows, Mac OS X, Linux, and Solaris and 10.1.95.1 on Android, and authplay.dll (aka AuthPlayLib.bundle or libauthplay.so.0.0.0) in Adobe Reader and Acrobat 9.x through 9.4, allows remote attackers to execute arbitrary code or cause a denial of service (memory corruption and application crash) via crafted SWF content, as exploited in the wild in October 2010.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -31955,7 +31955,7 @@
     {
       "cve_id": "CVE-2010-2887",
       "published_date": "2010-10-06",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Multiple unspecified vulnerabilities in Adobe Reader and Acrobat 9.x before 9.4 on Linux allow attackers to gain privileges via unknown vectors.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -31976,7 +31976,7 @@
     {
       "cve_id": "CVE-2010-2888",
       "published_date": "2010-10-06",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Multiple unspecified vulnerabilities in an ActiveX control in Adobe Reader and Acrobat 8.x before 8.2.5 and 9.x before 9.4 on Windows allow attackers to execute arbitrary code via unknown vectors.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -31997,7 +31997,7 @@
     {
       "cve_id": "CVE-2010-2889",
       "published_date": "2010-10-06",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Unspecified vulnerability in Adobe Reader and Acrobat 9.x before 9.4, and 8.x before 8.2.5 on Windows and Mac OS X, allows attackers to execute arbitrary code via a crafted font, a different vulnerability than CVE-2010-3626.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -32018,7 +32018,7 @@
     {
       "cve_id": "CVE-2010-2890",
       "published_date": "2010-10-06",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.4, and 8.x before 8.2.5 on Windows and Mac OS X, allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2010-3619, CVE-2010-3621, CVE-2010-3622, CVE-2010-3628, CVE-2010-3632, and CVE-2010-3658.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -32039,7 +32039,7 @@
     {
       "cve_id": "CVE-2010-3619",
       "published_date": "2010-10-06",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.4, and 8.x before 8.2.5 on Windows and Mac OS X, allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2010-2890, CVE-2010-3621, CVE-2010-3622, CVE-2010-3628, CVE-2010-3632, and CVE-2010-3658.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -32060,7 +32060,7 @@
     {
       "cve_id": "CVE-2010-3620",
       "published_date": "2010-10-06",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Unspecified vulnerability in Adobe Reader and Acrobat 9.x before 9.4, and 8.x before 8.2.5 on Windows and Mac OS X, allows attackers to execute arbitrary code via a crafted image, a different vulnerability than CVE-2010-3629.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -32081,7 +32081,7 @@
     {
       "cve_id": "CVE-2010-3621",
       "published_date": "2010-10-06",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.4, and 8.x before 8.2.5 on Windows and Mac OS X, allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2010-2890, CVE-2010-3619, CVE-2010-3622, CVE-2010-3628, CVE-2010-3632, and CVE-2010-3658.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -32102,7 +32102,7 @@
     {
       "cve_id": "CVE-2010-3622",
       "published_date": "2010-10-06",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.4, and 8.x before 8.2.5 on Windows and Mac OS X, allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2010-2890, CVE-2010-3619, CVE-2010-3621, CVE-2010-3628, CVE-2010-3632, and CVE-2010-3658.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -32123,7 +32123,7 @@
     {
       "cve_id": "CVE-2010-3623",
       "published_date": "2010-10-06",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 8.x before 8.2.5 and 9.x before 9.4 on Mac OS X allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -32144,7 +32144,7 @@
     {
       "cve_id": "CVE-2010-3624",
       "published_date": "2010-10-06",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Unspecified vulnerability in Adobe Reader and Acrobat 8.x before 8.2.5 and 9.x before 9.4 on Mac OS X allows attackers to execute arbitrary code via a crafted image.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -32165,7 +32165,7 @@
     {
       "cve_id": "CVE-2010-3625",
       "published_date": "2010-10-06",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.4, and 8.x before 8.2.5 on Windows and Mac OS X, allow attackers to execute arbitrary code via unspecified vectors, related to a \"prefix protocol handler vulnerability.\"",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -32186,7 +32186,7 @@
     {
       "cve_id": "CVE-2010-3626",
       "published_date": "2010-10-06",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Unspecified vulnerability in Adobe Reader and Acrobat 9.x before 9.4, and 8.x before 8.2.5 on Windows and Mac OS X, allows attackers to execute arbitrary code via a crafted font, a different vulnerability than CVE-2010-2889.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -32207,7 +32207,7 @@
     {
       "cve_id": "CVE-2010-3627",
       "published_date": "2010-10-06",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Unspecified vulnerability in Adobe Reader and Acrobat 9.x before 9.4, and 8.x before 8.2.5 on Windows and Mac OS X, allows attackers to execute arbitrary code via unknown vectors.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -32228,7 +32228,7 @@
     {
       "cve_id": "CVE-2010-3628",
       "published_date": "2010-10-06",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.4, and 8.x before 8.2.5 on Windows and Mac OS X, allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2010-2890, CVE-2010-3619, CVE-2010-3621, CVE-2010-3622, CVE-2010-3632, and CVE-2010-3658.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -32249,7 +32249,7 @@
     {
       "cve_id": "CVE-2010-3629",
       "published_date": "2010-10-06",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Unspecified vulnerability in Adobe Reader and Acrobat 9.x before 9.4, and 8.x before 8.2.5 on Windows and Mac OS X, allows attackers to execute arbitrary code via a crafted image, a different vulnerability than CVE-2010-3620.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -32270,7 +32270,7 @@
     {
       "cve_id": "CVE-2010-3630",
       "published_date": "2010-10-06",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Unspecified vulnerability in Adobe Reader and Acrobat 9.x before 9.4, and 8.x before 8.2.5 on Windows and Mac OS X, allows attackers to cause a denial of service or possibly execute arbitrary code via unknown vectors.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -32291,7 +32291,7 @@
     {
       "cve_id": "CVE-2010-3631",
       "published_date": "2010-10-06",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Array index error in Adobe Reader and Acrobat 8.x before 8.2.5 and 9.x before 9.4 on Mac OS X allows attackers to execute arbitrary code via unspecified vectors.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -32312,7 +32312,7 @@
     {
       "cve_id": "CVE-2010-3632",
       "published_date": "2010-10-06",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.4, and 8.x before 8.2.5 on Windows and Mac OS X, allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2010-2890, CVE-2010-3619, CVE-2010-3621, CVE-2010-3622, CVE-2010-3628, and CVE-2010-3658.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -32333,7 +32333,7 @@
     {
       "cve_id": "CVE-2010-3658",
       "published_date": "2010-10-06",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.4, and 8.x before 8.2.5 on Windows and Mac OS X, allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2010-2890, CVE-2010-3619, CVE-2010-3621, CVE-2010-3622, CVE-2010-3628, and CVE-2010-3632.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -32354,7 +32354,7 @@
     {
       "cve_id": "CVE-2010-2884",
       "published_date": "2010-09-15",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Flash Player 10.1.82.76 and earlier on Windows, Mac OS X, Linux, and Solaris and 10.1.92.10 on Android; authplay.dll in Adobe Reader and Acrobat 9.x before 9.4; and authplay.dll in Adobe Reader and Acrobat 8.x before 8.2.5 on Windows and Mac OS X allow remote attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, as exploited in the wild in September 2010.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -32375,7 +32375,7 @@
     {
       "cve_id": "CVE-2010-2862",
       "published_date": "2010-08-05",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Integer overflow in CoolType.dll in Adobe Reader 8.2.3 and 9.3.3, and Acrobat 9.3.3, allows remote attackers to execute arbitrary code via a TrueType font with a large maxCompositePoints value in a Maximum Profile (maxp) table.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -32396,7 +32396,7 @@
     {
       "cve_id": "CVE-2010-1285",
       "published_date": "2010-06-30",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.3.3, and 8.x before 8.2.3 on Windows and Mac OS X, allow attackers to execute arbitrary code via unspecified manipulations involving the newclass (0x58) operator and an \"invalid pointer vulnerability\" that triggers memory corruption, a different vulnerability than CVE-2010-2168 and CVE-2010-2201.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -32417,7 +32417,7 @@
     {
       "cve_id": "CVE-2010-1295",
       "published_date": "2010-06-30",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.3.3, and 8.x before 8.2.3 on Windows and Mac OS X, allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2010-2202, CVE-2010-2207, CVE-2010-2209, CVE-2010-2210, CVE-2010-2211, and CVE-2010-2212.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -32438,7 +32438,7 @@
     {
       "cve_id": "CVE-2010-2168",
       "published_date": "2010-06-30",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.3.3, and 8.x before 8.2.3 on Windows and Mac OS X, allow attackers to execute arbitrary code via a PDF file with crafted Flash content, involving the newfunction (0x44) operator and an \"invalid pointer vulnerability\" that triggers memory corruption, a different vulnerability than CVE-2010-1285 and CVE-2010-2201.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -32459,7 +32459,7 @@
     {
       "cve_id": "CVE-2010-2201",
       "published_date": "2010-06-30",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.3.3, and 8.x before 8.2.3 on Windows and Mac OS X, allow attackers to execute arbitrary code via a PDF file with crafted Flash content involving the (1) pushstring (0x2C) operator, (2) debugfile (0xF1) operator, and an \"invalid pointer vulnerability\" that triggers memory corruption, a different vulnerability than CVE-2010-1285 and CVE-2010-2168.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -32480,7 +32480,7 @@
     {
       "cve_id": "CVE-2010-2202",
       "published_date": "2010-06-30",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.3.3, and 8.x before 8.2.3 on Windows and Mac OS X, allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2010-1295, CVE-2010-2207, CVE-2010-2209, CVE-2010-2210, CVE-2010-2211, and CVE-2010-2212.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -32501,7 +32501,7 @@
     {
       "cve_id": "CVE-2010-2204",
       "published_date": "2010-06-30",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Unspecified vulnerability in Adobe Reader and Acrobat 9.x before 9.3.3, and 8.x before 8.2.3 on Windows and Mac OS X, allows attackers to cause a denial of service or possibly execute arbitrary code via unknown vectors.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -32522,7 +32522,7 @@
     {
       "cve_id": "CVE-2010-2205",
       "published_date": "2010-06-30",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.3.3, and 8.x before 8.2.3 on Windows and Mac OS X, access uninitialized memory, which allows attackers to execute arbitrary code via unspecified vectors.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -32543,7 +32543,7 @@
     {
       "cve_id": "CVE-2010-2206",
       "published_date": "2010-06-30",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Array index error in AcroForm.api in Adobe Reader and Acrobat 9.x before 9.3.3, and 8.x before 8.2.3 on Windows and Mac OS X, allows remote attackers to execute arbitrary code via a crafted GIF image in a PDF file, which bypasses a size check and triggers a heap-based buffer overflow.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -32564,7 +32564,7 @@
     {
       "cve_id": "CVE-2010-2207",
       "published_date": "2010-06-30",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.3.3, and 8.x before 8.2.3 on Windows and Mac OS X, allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2010-1295, CVE-2010-2202, CVE-2010-2209, CVE-2010-2210, CVE-2010-2211, and CVE-2010-2212.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -32585,7 +32585,7 @@
     {
       "cve_id": "CVE-2010-2208",
       "published_date": "2010-06-30",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.3.3, and 8.x before 8.2.3 on Windows and Mac OS X, dereference a heap object after this object's deletion, which allows attackers to execute arbitrary code via unspecified vectors.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -32606,7 +32606,7 @@
     {
       "cve_id": "CVE-2010-2209",
       "published_date": "2010-06-30",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.3.3, and 8.x before 8.2.3 on Windows and Mac OS X, allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2010-1295, CVE-2010-2202, CVE-2010-2207, CVE-2010-2210, CVE-2010-2211, and CVE-2010-2212.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -32627,7 +32627,7 @@
     {
       "cve_id": "CVE-2010-2210",
       "published_date": "2010-06-30",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.3.3, and 8.x before 8.2.3 on Windows and Mac OS X, allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2010-1295, CVE-2010-2202, CVE-2010-2207, CVE-2010-2209, CVE-2010-2211, and CVE-2010-2212.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -32648,7 +32648,7 @@
     {
       "cve_id": "CVE-2010-2211",
       "published_date": "2010-06-30",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.3.3, and 8.x before 8.2.3 on Windows and Mac OS X, allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2010-1295, CVE-2010-2202, CVE-2010-2207, CVE-2010-2209, CVE-2010-2210, and CVE-2010-2212.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -32669,7 +32669,7 @@
     {
       "cve_id": "CVE-2010-2212",
       "published_date": "2010-06-30",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Buffer overflow in Adobe Reader and Acrobat 9.x before 9.3.3, and 8.x before 8.2.3 on Windows and Mac OS X, allows attackers to execute arbitrary code or cause a denial of service (memory corruption) via a PDF file containing Flash content with a crafted #1023 (3FFh) tag, a different vulnerability than CVE-2010-1295, CVE-2010-2202, CVE-2010-2207, CVE-2010-2209, CVE-2010-2210, and CVE-2010-2211.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -32690,7 +32690,7 @@
     {
       "cve_id": "CVE-2010-1278",
       "published_date": "2010-04-22",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Buffer overflow in the Atlcom.get_atlcom ActiveX control in gp.ocx in Adobe Download Manager, as used in Adobe Reader and Acrobat 8.x before 8.2 and 9.x before 9.3, allows remote attackers to execute arbitrary code via unspecified parameters.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -32711,7 +32711,7 @@
     {
       "cve_id": "CVE-2010-0191",
       "published_date": "2010-04-14",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.3.2, and 8.x before 8.2.2 on Windows and Mac OS X, allow attackers to execute arbitrary code via unspecified vectors, related to a \"prefix protocol handler vulnerability.\"",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -32732,7 +32732,7 @@
     {
       "cve_id": "CVE-2010-0192",
       "published_date": "2010-04-14",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Unspecified vulnerability in Adobe Reader and Acrobat 9.x before 9.3.2, and 8.x before 8.2.2 on Windows and Mac OS X, allows attackers to cause a denial of service or possibly execute arbitrary code via unknown vectors, a different vulnerability than CVE-2010-0193 and CVE-2010-0196.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -32753,7 +32753,7 @@
     {
       "cve_id": "CVE-2010-0193",
       "published_date": "2010-04-14",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Unspecified vulnerability in Adobe Reader and Acrobat 9.x before 9.3.2, and 8.x before 8.2.2 on Windows and Mac OS X, allows attackers to cause a denial of service or possibly execute arbitrary code via unknown vectors, a different vulnerability than CVE-2010-0192 and CVE-2010-0196.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -32774,7 +32774,7 @@
     {
       "cve_id": "CVE-2010-0194",
       "published_date": "2010-04-14",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.3.2, and 8.x before 8.2.2 on Windows and Mac OS X, allow attackers to cause a denial of service (memory corruption) or execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2010-0197, CVE-2010-0201, and CVE-2010-0204.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -32795,7 +32795,7 @@
     {
       "cve_id": "CVE-2010-0195",
       "published_date": "2010-04-14",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.3.2, and 8.x before 8.2.2 on Windows and Mac OS X, do not properly handle fonts, which allows attackers to execute arbitrary code via unspecified vectors.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -32816,7 +32816,7 @@
     {
       "cve_id": "CVE-2010-0196",
       "published_date": "2010-04-14",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Unspecified vulnerability in Adobe Reader and Acrobat 9.x before 9.3.2, and 8.x before 8.2.2 on Windows and Mac OS X, allows attackers to cause a denial of service or possibly execute arbitrary code via unknown vectors, a different vulnerability than CVE-2010-0192 and CVE-2010-0193.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -32837,7 +32837,7 @@
     {
       "cve_id": "CVE-2010-0197",
       "published_date": "2010-04-14",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.3.2, and 8.x before 8.2.2 on Windows and Mac OS X, allow attackers to cause a denial of service (memory corruption) or execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2010-0194, CVE-2010-0201, and CVE-2010-0204.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -32858,7 +32858,7 @@
     {
       "cve_id": "CVE-2010-0198",
       "published_date": "2010-04-14",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Buffer overflow in Adobe Reader and Acrobat 9.x before 9.3.2, and 8.x before 8.2.2 on Windows and Mac OS X, allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2010-0199, CVE-2010-0202, and CVE-2010-0203.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -32879,7 +32879,7 @@
     {
       "cve_id": "CVE-2010-0199",
       "published_date": "2010-04-14",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Buffer overflow in Adobe Reader and Acrobat 9.x before 9.3.2, and 8.x before 8.2.2 on Windows and Mac OS X, allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2010-0198, CVE-2010-0202, and CVE-2010-0203.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -32900,7 +32900,7 @@
     {
       "cve_id": "CVE-2010-0201",
       "published_date": "2010-04-14",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.3.2, and 8.x before 8.2.2 on Windows and Mac OS X, allow attackers to cause a denial of service (memory corruption) or execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2010-0194, CVE-2010-0197, and CVE-2010-0204.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -32921,7 +32921,7 @@
     {
       "cve_id": "CVE-2010-0202",
       "published_date": "2010-04-14",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Buffer overflow in Adobe Reader and Acrobat 9.x before 9.3.2, and 8.x before 8.2.2 on Windows and Mac OS X, allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2010-0198, CVE-2010-0199, and CVE-2010-0203.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -32942,7 +32942,7 @@
     {
       "cve_id": "CVE-2010-0203",
       "published_date": "2010-04-14",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Buffer overflow in Adobe Reader and Acrobat 9.x before 9.3.2, and 8.x before 8.2.2 on Windows and Mac OS X, allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2010-0198, CVE-2010-0199, and CVE-2010-0202.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -32963,7 +32963,7 @@
     {
       "cve_id": "CVE-2010-0204",
       "published_date": "2010-04-14",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.3.2, and 8.x before 8.2.2 on Windows and Mac OS X, allow attackers to cause a denial of service (memory corruption) or execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2010-0194, CVE-2010-0197, and CVE-2010-0201.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -32984,7 +32984,7 @@
     {
       "cve_id": "CVE-2009-4764",
       "published_date": "2010-04-05",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader 8.x and 9.x on Windows is able to execute EXE files that are embedded in a PDF document, which makes it easier for remote attackers to trick users into executing arbitrary code via a crafted document.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -33005,7 +33005,7 @@
     {
       "cve_id": "CVE-2010-1240",
       "published_date": "2010-04-05",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.3.3, and 8.x before 8.2.3 on Windows and Mac OS X, do not restrict the contents of one text field in the Launch File warning dialog, which makes it easier for remote attackers to trick users into executing an arbitrary local program that was specified in a PDF document, as demonstrated by a text field that claims that the Open button will enable the user to read an encrypted message.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -33026,7 +33026,7 @@
     {
       "cve_id": "CVE-2010-1241",
       "published_date": "2010-04-05",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Heap-based buffer overflow in the custom heap management system in Adobe Reader and Acrobat 9.x before 9.3.2, and 8.x before 8.2.2 on Windows and Mac OS X, allows remote attackers to execute arbitrary code or cause a denial of service (memory corruption) via a crafted PDF document, aka FG-VD-10-005.",
       "base_score": 9.3,
       "severity": "HIGH",
@@ -44492,7 +44492,7 @@
     {
       "cve_id": "CVE-2013-2737",
       "published_date": "2013-05-16",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "A JavaScript API in Adobe Reader and Acrobat 9.x before 9.5.5, 10.x before 10.1.7, and 11.x before 11.0.03 allows attackers to obtain sensitive information via unspecified vectors.",
       "base_score": 5.0,
       "severity": "MEDIUM",
@@ -44513,7 +44513,7 @@
     {
       "cve_id": "CVE-2012-0777",
       "published_date": "2012-04-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "The JavaScript API in Adobe Reader and Acrobat 9.x before 9.5.1 and 10.x before 10.1.3 on Mac OS X and Linux allows attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors.",
       "base_score": 6.8,
       "severity": "MEDIUM",
@@ -44534,7 +44534,7 @@
     {
       "cve_id": "CVE-2011-1353",
       "published_date": "2011-09-15",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Unspecified vulnerability in Adobe Reader 10.x before 10.1.1 on Windows allows local users to gain privileges via unknown vectors.",
       "base_score": 6.9,
       "severity": "MEDIUM",
@@ -44555,7 +44555,7 @@
     {
       "cve_id": "CVE-2011-2100",
       "published_date": "2011-06-16",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Untrusted search path vulnerability in Adobe Reader and Acrobat 8.x before 8.3, 9.x before 9.4.5, and 10.x before 10.1 on Windows allows local users to gain privileges via a Trojan horse DLL in the current working directory.",
       "base_score": 6.9,
       "severity": "MEDIUM",
@@ -44576,7 +44576,7 @@
     {
       "cve_id": "CVE-2011-2104",
       "published_date": "2011-06-16",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 8.x before 8.3, 9.x before 9.4.5, and 10.x before 10.1 on Windows and Mac OS X allow attackers to cause a denial of service (memory corruption) via unspecified vectors.",
       "base_score": 4.3,
       "severity": "MEDIUM",
@@ -44597,7 +44597,7 @@
     {
       "cve_id": "CVE-2011-2107",
       "published_date": "2011-06-09",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Cross-site scripting (XSS) vulnerability in Adobe Flash Player before 10.3.181.22 on Windows, Mac OS X, Linux, and Solaris, and 10.3.185.22 and earlier on Android, allows remote attackers to inject arbitrary web script or HTML via unspecified vectors, related to a \"universal cross-site scripting vulnerability.\"",
       "base_score": 4.3,
       "severity": "MEDIUM",
@@ -44618,7 +44618,7 @@
     {
       "cve_id": "CVE-2011-0562",
       "published_date": "2011-02-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Untrusted search path vulnerability in Adobe Reader and Acrobat 10.x before 10.0.1, 9.x before 9.4.2, and 8.x before 8.2.6 on Windows allows local users to gain privileges via a Trojan horse DLL in the current working directory, a different vulnerability than CVE-2011-0570 and CVE-2011-0588.",
       "base_score": 6.9,
       "severity": "MEDIUM",
@@ -44639,7 +44639,7 @@
     {
       "cve_id": "CVE-2011-0568",
       "published_date": "2011-02-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Unspecified vulnerability in Adobe Reader and Acrobat 10.x before 10.0.1, 9.x before 9.4.2, and 8.x before 8.2.6 on Mac OS X allows attackers to cause a denial of service or possibly execute arbitrary code via unknown vectors.",
       "base_score": 6.8,
       "severity": "MEDIUM",
@@ -44660,7 +44660,7 @@
     {
       "cve_id": "CVE-2011-0570",
       "published_date": "2011-02-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Untrusted search path vulnerability in Adobe Reader and Acrobat 10.x before 10.0.1, 9.x before 9.4.2, and 8.x before 8.2.6 on Windows allows local users to gain privileges via a Trojan horse DLL in the current working directory, a different vulnerability than CVE-2011-0562 and CVE-2011-0588.",
       "base_score": 6.9,
       "severity": "MEDIUM",
@@ -44681,7 +44681,7 @@
     {
       "cve_id": "CVE-2011-0587",
       "published_date": "2011-02-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Cross-site scripting (XSS) vulnerability in Adobe Reader and Acrobat 10.x before 10.0.1, 9.x before 9.4.2, and 8.x before 8.2.6 on Windows and Mac OS X allows remote attackers to inject arbitrary web script or HTML via unspecified vectors, a different vulnerability than CVE-2011-0604.",
       "base_score": 4.3,
       "severity": "MEDIUM",
@@ -44702,7 +44702,7 @@
     {
       "cve_id": "CVE-2011-0588",
       "published_date": "2011-02-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Untrusted search path vulnerability in Adobe Reader and Acrobat 10.x before 10.0.1, 9.x before 9.4.2, and 8.x before 8.2.6 on Windows allows local users to gain privileges via a Trojan horse DLL in the current working directory, a different vulnerability than CVE-2011-0562 and CVE-2011-0570.",
       "base_score": 6.9,
       "severity": "MEDIUM",
@@ -44723,7 +44723,7 @@
     {
       "cve_id": "CVE-2011-0604",
       "published_date": "2011-02-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Cross-site scripting (XSS) vulnerability in Adobe Reader and Acrobat 10.x before 10.0.1, 9.x before 9.4.2, and 8.x before 8.2.6 on Windows and Mac OS X allows remote attackers to inject arbitrary web script or HTML via unspecified vectors, a different vulnerability than CVE-2011-0587.",
       "base_score": 4.3,
       "severity": "MEDIUM",
@@ -44744,7 +44744,7 @@
     {
       "cve_id": "CVE-2011-0605",
       "published_date": "2011-02-10",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 10.x before 10.0.1, 9.x before 9.4.2, and 8.x before 8.2.6 on Mac OS X allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors.",
       "base_score": 6.8,
       "severity": "MEDIUM",
@@ -44765,7 +44765,7 @@
     {
       "cve_id": "CVE-2010-3656",
       "published_date": "2010-10-06",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Unspecified vulnerability in Adobe Reader and Acrobat 9.x before 9.4, and 8.x before 8.2.5 on Windows and Mac OS X, allows attackers to cause a denial of service via unknown vectors, a different vulnerability than CVE-2010-3657.",
       "base_score": 4.3,
       "severity": "MEDIUM",
@@ -44786,7 +44786,7 @@
     {
       "cve_id": "CVE-2010-3657",
       "published_date": "2010-10-06",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Unspecified vulnerability in Adobe Reader and Acrobat 9.x before 9.4, and 8.x before 8.2.5 on Windows and Mac OS X, allows attackers to cause a denial of service via unknown vectors, a different vulnerability than CVE-2010-3656.",
       "base_score": 4.3,
       "severity": "MEDIUM",
@@ -44807,7 +44807,7 @@
     {
       "cve_id": "CVE-2010-2203",
       "published_date": "2010-06-30",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Adobe Reader and Acrobat 9.x before 9.3.3 on UNIX allow attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors.",
       "base_score": 6.8,
       "severity": "MEDIUM",
@@ -44828,7 +44828,7 @@
     {
       "cve_id": "CVE-2010-0190",
       "published_date": "2010-04-14",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Cross-site scripting (XSS) vulnerability in Adobe Reader and Acrobat 9.x before 9.3.2, and 8.x before 8.2.2 on Windows and Mac OS X, allows remote attackers to inject arbitrary web script or HTML via unspecified vectors.",
       "base_score": 4.3,
       "severity": "MEDIUM",
@@ -44849,7 +44849,7 @@
     {
       "cve_id": "CVE-2010-0186",
       "published_date": "2010-02-15",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Cross-domain vulnerability in Adobe Flash Player before 10.0.45.2, Adobe AIR before 1.5.3.9130, and Adobe Reader and Acrobat 8.x before 8.2.1 and 9.x before 9.3.1 allows remote attackers to bypass intended sandbox restrictions and make cross-domain requests via unspecified vectors.",
       "base_score": 6.8,
       "severity": "MEDIUM",

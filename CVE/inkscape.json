@@ -1,7 +1,7 @@
 {
   "app_name": "Inkscape",
   "app_key": "inkscape",
-  "last_updated": "2026-04-28",
+  "last_updated": "2026-04-29",
   "total_cves": 9,
   "summary": {
     "critical": 0,
@@ -35,7 +35,7 @@
     {
       "cve_id": "CVE-2012-6076",
       "published_date": "2013-03-12",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "Inkscape before 0.48.4 reads .eps files from /tmp instead of the current directory, which might cause Inkspace to process unintended files, allow local users to obtain sensitive information, and possibly have other unspecified impacts.",
       "base_score": 4.4,
       "severity": "MEDIUM",
@@ -56,7 +56,7 @@
     {
       "cve_id": "CVE-2012-5656",
       "published_date": "2013-01-18",
-      "last_modified_date": "2025-04-11",
+      "last_modified_date": "2026-04-29",
       "description": "The rasterization process in Inkscape before 0.48.4 allows local users to read arbitrary files via an external entity in a SVG file, aka an XML external entity (XXE) injection attack.",
       "base_score": 5.5,
       "severity": "MEDIUM",
