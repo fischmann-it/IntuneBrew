@@ -1,14 +1,14 @@
 {
   "name": "FLEXOPTIX App",
   "description": "Connect to your FLEXBOX without cables and configure transceivers",
-  "version": "5.62.0-latest",
-  "url": "https://flexbox.reconfigure.me/download/electron/mac/arm64/FLEXOPTIX%20App-5.62.0-latest-arm64.dmg",
+  "version": "5.63.0-latest",
+  "url": "https://flexbox.reconfigure.me/download/electron/mac/arm64/FLEXOPTIX%20App-5.63.0-latest-arm64.dmg",
   "vendor_url": "https://flexbox.reconfigure.me/download/electron/mac/arm64/FLEXOPTIX%20App-5.61.0-latest-arm64.dmg",
   "bundleId": "com.nicola.FLEXOPTIX",
   "homepage": "https://www.flexoptix.net/en/flexoptix-app/#",
-  "fileName": "FLEXOPTIX App-5.62.0-latest-arm64.dmg",
-  "sha": "463219e8ddeb6b94445a7cabd6ccc1aded9ae9eea60fe4f818f72714f529397a",
+  "fileName": "FLEXOPTIX App-5.63.0-latest-arm64.dmg",
+  "sha": "61d02acc6e3cea45fb9c2d61be7cfcc0ae52dd0431d16d7d553a127ae2607630",
   "category": "Utilities",
   "publisher": "Flexoptix GmbH",
-  "previous_version": "5.61.0-latest"
+  "previous_version": "5.62.0-latest"
 }

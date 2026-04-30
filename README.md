@@ -18,7 +18,7 @@
     <a href="https://www.powershellgallery.com/packages/IntuneBrew">
       <img src="https://img.shields.io/powershellgallery/dt/IntuneBrew?style=flat&label=PSGallery%20Downloads&color=brightgreen" alt="PowerShell Gallery Downloads"/>
     </a>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <p>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <p>
     <a href="#-supported-applications">
       <img src="https://img.shields.io/badge/Apps_Available-1252-2ea44f?style=flat" alt="TotalApps"/>
     </a>
@@ -445,36 +445,45 @@ This project uses publicly available metadata from Homebrew’s JSON API. Homebr
 
 
 
+
 ## 🔄 Latest Updates
 
-*Last checked: 2026-04-29 13:23 UTC*
+*Last checked: 2026-04-30 00:59 UTC*
 
 | Application | Previous Version | New Version |
 |-------------|-----------------|-------------|
 | Caffeine | 1.6.4 | 1.1.4 |
 | Multi | 0.538.2 | 3.0.2 |
-| A Better Finder Rename | 12.28 | 12.29 |
-| WeChat for Mac | 4.1.9.27 | 4.1.9.31 |
-| LibreWolf | 150.0 | 150.0.1 |
-| Google Chrome | 147.0.7727.117 | 147.0.7727.138 |
-| Raycast | 1.104.13 | 1.104.14 |
-| Microsoft Office | 16.108.26041915 | 16.108.26042616 |
-| Windsurf | 2.0.67 | 2.1.29 |
-| Opera | 130.0.5847.92 | 131.0.5877.5 |
-| Plexamp | 4.13.1 | 4.13.2 |
-| Opera GX | 130.0.5847.89 | 130.0.5847.108 |
+| Mozilla Firefox Developer Edition | 151.0b3 | 151.0b4 |
+| Rive | 0.8.4713 | 0.8.4723 |
+| LookAway | 2.1.0 | 2.1.1 |
+| CotEditor | 7.0.1 | 7.0.2 |
+| Downie | 4.12.3 | 4.12.4 |
+| Company Portal | 5.2602.0 | 5.2603.0 |
+| Grammarly Desktop | 1.163.0.0 | 1.163.1.0 |
+| Brave | 1.89.143.0 | 1.89.145.0 |
+| Dropbox | 248.4.3576 | 250.4.3245 |
+| Raycast | 1.104.14 | 1.104.15 |
+| Zed | 0.233.10 | 1.0.0 |
+| Windsurf | 2.1.29 | 2.1.32 |
+| DataSpell | 2026.1 | 2026.1.1 |
+| DbGate | 7.1.9 | 7.1.10 |
+| Beekeeper Studio | 5.6.5 | 5.7.2 |
+| Lunacy | 13.0 | 14.0 |
+| REAPER | 7.69 | 7.70 |
+| Ableton Live Lite | 12.3.7 | 12.3.8 |
+| Ableton Live Suite | 12.3.7 | 12.3.8 |
 | Caffeine | 1.6.4 | 1.1.4 |
-| FLEXOPTIX App | 5.61.0-latest | 5.62.0-latest |
-| Mellel | 6.6.5 | 6.6.7 |
-| Moom | 4.4.2 | 4.5.0 |
+| Anytype | 0.54.11 | 0.55.0 |
+| FLEXOPTIX App | 5.62.0-latest | 5.63.0-latest |
+| jamovi | 2.7.26.0 | 2.7.27.2 |
+| massCode | 5.1.1 | 5.2.0 |
+| Modern CSV | 2.4.1 | 2.4.2 |
 | Multi | 0.538.2 | 3.0.2 |
-| Tuta Mail | 345.260424.1 | 346.260428.0 |
-| Claude Code | 2.1.112 | 2.1.116 |
-| NordLayer | 3.9.1 | 3.10.0 |
-| Microsoft Office BusinessPro | 16.108.26041915 | 16.108.26042616 |
-| Microsoft OneNote | 16.108.26041915 | 16.108.26042616 |
-| Microsoft PowerPoint | 16.108.26041915 | 16.108.26042616 |
-| Microsoft Word | 16.108.26041915 | 16.108.26042616 |
+| RunJS | 4.0.0 | 4.0.1 |
+| NordVPN | 10.0.4 | 10.1.0 |
+| Arq | 7.39.1 | 7.40 |
+| Salesforce CLI | 2.131.7 | 2.132.14 |
 ## ✨ Features
 
 - 🚀 Automated app uploads to Microsoft Intune
