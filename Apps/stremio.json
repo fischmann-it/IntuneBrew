@@ -1,13 +1,13 @@
 {
   "name": "Stremio",
   "description": "Open-source media center",
-  "version": "5.1.21",
-  "url": "https://dl.strem.io/stremio-shell-macos/v5.1.21/Stremio_arm64.dmg",
+  "version": "5.1.22",
+  "url": "https://dl.strem.io/stremio-shell-macos/v5.1.22/Stremio_arm64.dmg",
   "vendor_url": "https://dl.strem.io/stremio-shell-macos/v5.1.18/Stremio_arm64.dmg",
   "bundleId": "com.smartcodeltd.stremio",
   "homepage": "https://www.strem.io/",
   "fileName": "Stremio_arm64.dmg",
-  "sha": "806e1e2510649b4e0f2b579c304a184ee73424720de0defde699548172fdc929",
+  "sha": "5e7f812af4902455a5c780b2ea08ef0387bda95889fb1f3a177ca12be1a216e6",
   "category": "Media",
   "publisher": "Stremio",
   "previous_version": "5.1.21"
