@@ -18,7 +18,7 @@
     <a href="https://www.powershellgallery.com/packages/IntuneBrew">
       <img src="https://img.shields.io/powershellgallery/dt/IntuneBrew?style=flat&label=PSGallery%20Downloads&color=brightgreen" alt="PowerShell Gallery Downloads"/>
     </a>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <p>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <p>
     <a href="#-supported-applications">
       <img src="https://img.shields.io/badge/Apps_Available-1252-2ea44f?style=flat" alt="TotalApps"/>
     </a>
@@ -447,44 +447,37 @@ This project uses publicly available metadata from Homebrew’s JSON API. Homebr
 
 
 
+
 ## 🔄 Latest Updates
 
-*Last checked: 2026-05-01 01:01 UTC*
+*Last checked: 2026-05-02 00:54 UTC*
 
 | Application | Previous Version | New Version |
 |-------------|-----------------|-------------|
 | Caffeine | 1.6.4 | 1.1.4 |
 | Multi | 0.538.2 | 3.0.2 |
-| Rive | 0.8.4723 | 0.8.4740 |
-| Dockside | 2.7.0 | 2.7.1 |
-| Mozilla Thunderbird | 150.0 | 150.0.1 |
-| NordPass | 7.6.18 | 7.6.20 |
-| NVIDIA GeForce NOW | 2.0.83.141 | 2.0.84.124 |
-| ChatWise | 26.4.17 | 26.4.18 |
-| Microsoft Teams | 26072.608.4595.8484 | 26093.311.4599.3126 |
-| Keeper Password Manager | 17.5.3 | 17.6.0 |
-| LibreOffice | 26.2.2 | 26.2.3 |
-| Microsoft Edge | 147.0.3912.86 | 147.0.3912.98 |
-| Rancher Desktop | 1.22.0 | 1.22.1 |
-| Sync | 2.2.57 | 2.2.58 |
-| Hoppscotch | 26.3.1-0 | 26.4.0-0 |
-| Stremio | 5.1.21 | 5.1.22 |
-| Deezer | 7.1.170 | 7.1.180 |
-| FontBase | 2026.4.6 | 2026.5.0 |
-| REAPER | 7.70 | 7.71 |
+| Mozilla Firefox Developer Edition | 151.0b4 | 151.0b5 |
+| Rive | 0.8.4740 | 0.8.4742 |
+| Dockside | 2.7.1 | 2.7.2 |
+| SABnzbd | 4.5.5 | 5.0.0 |
+| calibre | 9.7.0 | 9.8.0 |
+| Rancher Desktop | 1.22.1 | 1.22.0 |
+| Fork | 2.63.2 | 2.66.7 |
+| LinearMouse | 0.10.4 | 0.11.1 |
 | Caffeine | 1.6.4 | 1.1.4 |
-| Dorico | 6.2.10 | 6.2.20 |
-| Anytype | 0.55.0 | 0.55.2 |
-| LaunchOS | 1.5.6 | 1.5.7 |
-| Loom | 0.346.3 | 0.346.4 |
+| Anytype | 0.55.2 | 0.55.3 |
+| Granola | 7.162.2 | 7.162.5 |
 | Multi | 0.538.2 | 3.0.2 |
-| RunJS | 4.0.1 | 4.0.2 |
-| Shotcut | 26.2.26 | 26.4.30 |
-| XnViewMP | 1.10.5 | 1.11.2 |
-| Zotero | 9.0.1 | 9.0.2 |
-| Parsec | 150-102b | 150-103a |
-| Arq | 7.40 | 7.40.1 |
-| ExpressVPN | 14.0.1.12858 | 14.1.0.13058 |
+| Pale Moon | 34.2.1 | 34.2.2 |
+| PDFsam Basic | 6.0.0 | 6.0.1 |
+| Wealthfolio | 3.2.1 | 3.3.0 |
+| WebCatalog | 74.6.0 | 74.7.1 |
+| YACReader | 9.16.3.26010361 | 10.0.0.260501214 |
+| Claude Code | 2.1.116 | 2.1.118 |
+| Arq | 7.40.1 | 7.40.2 |
+| Enpass | 6.11.20.2229 | 6.11.21.2315 |
+| Microsoft Build of OpenJDK | 25.0.2 | 25.0.3 |
+| Adobe Acrobat Pro DC | 26.001.21483 | 26.001.21529 |
 ## ✨ Features
 
 - 🚀 Automated app uploads to Microsoft Intune
