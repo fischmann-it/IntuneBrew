@@ -18,7 +18,7 @@
     <a href="https://www.powershellgallery.com/packages/IntuneBrew">
       <img src="https://img.shields.io/powershellgallery/dt/IntuneBrew?style=flat&label=PSGallery%20Downloads&color=brightgreen" alt="PowerShell Gallery Downloads"/>
     </a>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <p>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <p>
     <a href="#-supported-applications">
       <img src="https://img.shields.io/badge/Apps_Available-1252-2ea44f?style=flat" alt="TotalApps"/>
     </a>
@@ -450,25 +450,37 @@ This project uses publicly available metadata from Homebrew’s JSON API. Homebr
 
 
 
+
 ## 🔄 Latest Updates
 
-*Last checked: 2026-05-04 00:57 UTC*
+*Last checked: 2026-05-05 00:54 UTC*
 
 | Application | Previous Version | New Version |
 |-------------|-----------------|-------------|
 | Caffeine | 1.6.4 | 1.1.4 |
 | Multi | 0.538.2 | 3.0.2 |
-| Recut | 4.3.4 | 4.4.3 |
-| ChatWise | 26.4.18 | 26.5.0 |
-| qBittorrent | 5.0.5 | 5.2.0 |
-| LuLu | 4.3.1 | 4.3.2 |
-| DBeaver Community Edition | 26.0.3 | 26.0.4 |
-| Stats | 2.12.12 | 2.12.13 |
-| Karabiner Elements | 15.9.0 | 16.0.0 |
-| Warp | 0.2026.04.27.15.32.stable | 0.2026.04.29.08.57.stable |
-| Actual | 26.4.0 | 26.5.0 |
+| Mozilla Firefox Developer Edition | 151.0b5 | 151.0b6 |
+| AnyDesk | 9.6.5 | 9.7.0 |
+| Discord | 0.0.388 | 0.0.389 |
+| DuckDuckGo | 1.187.0 | 1.188.0 |
+| Zed | 1.0.0 | 1.0.1 |
+| Rancher Desktop | 1.22.0 | 1.22.2 |
+| BoltAI 2 | 2.11.0 | 2.12.0 |
+| 8x8_work | 8.32.2-10 | 8.33.2-2 |
+| Craft | 3.4.1 | 3.4.2 |
 | Caffeine | 1.6.4 | 1.1.4 |
+| Defold | 1.12.3 | 1.12.4 |
+| Dust3D | 1.0.0-rc.9 | 1.0.0 |
+| jamovi | 2.7.27.2 | 2.7.28.0 |
+| massCode | 5.2.0 | 5.3.0 |
 | Multi | 0.538.2 | 3.0.2 |
+| Notesnook | 3.3.16 | 3.3.17 |
+| QGIS | 4.0.1 | 4.0.2 |
+| Nextcloud | 33.0.3 | 33.0.4 |
+| Aptible Toolbelt | 0.26.5 | 0.26.6 |
+| GOG Galaxy | 2.0.97.49 | 2.0.98.44 |
+| Shutter Encoder | 20.0 | 20.1 |
+| Adobe Acrobat Reader | 26.001.21431 | 26.001.21529 |
 ## ✨ Features
 
 - 🚀 Automated app uploads to Microsoft Intune
